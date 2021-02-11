@@ -1,1 +1,2 @@
-# Gonna-Save-Heroines
+# Gonna-Save-Heroines-Project
+GSH Subtitles
