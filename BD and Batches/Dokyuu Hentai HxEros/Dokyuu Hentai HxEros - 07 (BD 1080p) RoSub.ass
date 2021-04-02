@@ -16,6 +16,10 @@ Script Updated By: KazuyaShuu
 Update Details: GSH
 ScaledBorderAndShadow: no
 
+[Aegisub Project Garbage]
+Scroll Position: 585
+Active Line: 597
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Aller Loose,78,&H00FFFFFF,&H000000FF,&H001F0843,&HB4000000,-1,0,0,0,100,100,0,0,1,4,2.59999,2,150,150,53,1
@@ -622,7 +626,7 @@ Dialogue: 1,0:16:27.13,0:16:28.75,DedzuyaSigns,,0,0,0,,{\an8\pos(978.6,16.8)\fnA
 Dialogue: 2,0:16:27.13,0:16:28.75,DedzuyaSigns,,0,0,0,,{\an8\pos(978.6,16.8)\fnAttasiyap\fs100\fsp1\c&H010005&\blur1}M{\c&H010028&}o{\c&H01004C&}d{\c&H01006F&}u{\c&H020192&}l {\c&H0201D9&}B{\c&H0201FC&}e{\c&H0201D3&}s{\c&H0201AA&}t{\c&H020080&}i{\c&H010057&}e {\c&H010005&}H{\c&H010036&}x{\c&H010068&}E{\c&H020199&}r{\c&H0201CB&}o{\c&H0201FC&}s
 Dialogue: 0,0:23:34.97,0:23:39.98,DedzuyaSigns,,0,0,0,,{\an2\pos(980,300)\fscx170\fscy170\fax-0.12\fnSquarea\fs80\fsp3\c&H000000&\blur0.7}Data viitoare
 Dialogue: 0,0:23:34.97,0:23:39.98,DedzuyaSigns,,0,0,0,,{\an8\pos(970,610)\fscx180\fscy180\fax-0.12\fnSquarea\fs80\fsp3\c&H000000&\blur0.7}Monstrul energiei H
-Dialogue: 0,0:01:15.97,0:01:16.01,OP TL,,0,0,0,,{OP first frame}
+Comment: 0,0:01:15.97,0:01:16.01,OP TL,,0,0,0,,{OP first frame}
 Dialogue: 0,0:01:15.97,0:01:24.44,OP TL,,0,0,0,,{\bord6\c&H4F0480&\blur3\fad(500,200)}Continuă să protejezi iubirea, oricine poate fi un erou
 Dialogue: 1,0:01:15.97,0:01:24.44,OP TL,,0,0,0,,{\bord0\blur0.9\fad(500,200)}Continuă să protejezi iubirea, oricine poate fi un erou
 Dialogue: 0,0:01:21.22,0:01:24.44,OP TL,,0,0,0,,{\an2\pos(960,1040)\bord6\c&H4F0480&\blur3\fad(200,200)}HxEros! Trezește-te, eroule!
@@ -655,7 +659,7 @@ Dialogue: 0,0:02:29.05,0:02:32.05,OP TL,,0,0,0,,{\bord6\c&H4F0480&\blur3\fad(200
 Dialogue: 1,0:02:29.05,0:02:32.05,OP TL,,0,0,0,,{\bord0\blur0.9\fad(200,200)}Zâmbetul tău îmi readuce liniștea
 Dialogue: 0,0:02:32.05,0:02:35.59,OP TL,,0,0,0,,{\bord6\c&H4F0480&\blur3\fad(200,200)}Ridică-te de fiecare dată, eroule!
 Dialogue: 1,0:02:32.05,0:02:35.59,OP TL,,0,0,0,,{\bord0\blur0.9\fad(200,200)}Ridică-te de fiecare dată, eroule!
-Dialogue: 0,0:22:29.20,0:22:29.24,ED TL,,0,0,0,,{ED first classroom Kirara frame}
+Comment: 0,0:22:29.20,0:22:29.24,ED TL,,0,0,0,,{ED first classroom Kirara frame}
 Dialogue: 0,0:22:29.20,0:22:33.07,ED TL,,0,0,0,,{\c&H5A7BF4&\blur5\fad(200,200)}Te împing și încerc să mă prefac că sunt bine
 Dialogue: 1,0:22:29.20,0:22:33.07,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Te împing și încerc să mă prefac că sunt bine
 Dialogue: 0,0:22:33.07,0:22:35.90,ED TL,,0,0,0,,{\c&H5A7BF4&\blur5\fad(200,200)}Dar tu ești mereu așa de drăguț cu mine

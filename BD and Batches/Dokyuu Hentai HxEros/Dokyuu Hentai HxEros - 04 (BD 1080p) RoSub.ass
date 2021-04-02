@@ -18,6 +18,8 @@ Synch Point: KazuyaShuu
 Script Updated By: KazuyaShuu
 Update Details: GSH
 
+[Aegisub Project Garbage]
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Aller Loose,78,&H00FFFFFF,&H000000FF,&H001F0843,&HB4000000,-1,0,0,0,100,100,0,0,1,4,2.59999,2,150,150,53,1
@@ -229,7 +231,7 @@ Dialogue: 100,0:14:42.98,0:14:45.48,Dialogue,,0,0,0,,C-Ce este asta?
 Dialogue: 100,0:14:51.85,0:14:53.66,Dialogue,,0,0,0,,A-Ai văzut?
 Dialogue: 100,0:14:54.23,0:14:57.79,Dialogue,,0,0,0,,Scuze. Nu intenționam să trag cu ochiul,
 Dialogue: 100,0:14:57.79,0:15:01.13,Dialogue,,0,0,0,,dar caietul era căzut pe podea și când încercam să-l ridic...
-Dialogue: 100,0:15:04.48,0:15:07.51,Dialogue,,0,0,0,,Oricum, te pricepi la desen, Tenkuji.
+Dialogue: 100,0:15:04.48,0:15:07.51,Dialogue,,0,0,0,,Oricum, te pricepi la desen, Tenkuuji.
 Dialogue: 100,0:15:09.10,0:15:12.96,Dialogue,,0,0,0,,Nimeni de aici nu mi-a \Nvăzut desenele până acum.
 Dialogue: 100,0:15:12.96,0:15:14.84,Dialogue,,0,0,0,,Dar acum că tu ai făcut-o,
 Dialogue: 100,0:15:14.84,0:15:19.35,Dialogue,,0,0,0,,singurul mod prin care te pot face să păstrezi secretul este să-ți fac poze stânjenitoare.
@@ -287,11 +289,11 @@ Dialogue: 100,0:18:45.90,0:18:46.79,Dialogue,,0,0,0,,Am înțeles!
 Dialogue: 100,0:18:46.79,0:18:48.12,Dialogue,,0,0,0,,Ne bazăm pe voi!
 Dialogue: 100,0:18:48.12,0:18:48.81,Dialogue,,0,0,0,,Da!
 Dialogue: 100,0:18:52.63,0:18:54.46,Dialogue,,0,0,0,,Ce este asta?
-Dialogue: 100,0:18:55.86,0:18:57.19,Dialogue,,0,0,0,,Ce s-a întâmplat, Tenkuji?
+Dialogue: 100,0:18:55.86,0:18:57.19,Dialogue,,0,0,0,,Ce s-a întâmplat, Tenkuuji?
 Dialogue: 100,0:18:57.19,0:19:00.24,Dialogue,,0,0,0,,Acesta este magazinul \Nmeu de cărți favorit.
 Dialogue: 100,0:19:00.24,0:19:03.20,Dialogue,,0,0,0,,Să-l văd ruinat astfel...
 Dialogue: 100,0:19:04.49,0:19:06.16,Dialogue,,0,0,0,,Vor plăti pentru asta.
-Dialogue: 100,0:19:06.56,0:19:07.92,Dialogue,,0,0,0,,Tenkuji.
+Dialogue: 100,0:19:06.56,0:19:07.92,Dialogue,,0,0,0,,Tenkuuji.
 Dialogue: 100,0:19:15.05,0:19:17.26,Dialogue,,0,0,0,,Super HxEros?
 Dialogue: 100,0:19:19.59,0:19:21.80,Dialogue,,0,0,0,,Gândăceii mei!
 Dialogue: 100,0:19:21.80,0:19:23.92,Dialogue,,0,0,0,,Ocupați-vă de ei!
@@ -322,7 +324,7 @@ Dialogue: 100,0:20:51.42,0:20:53.01,Dialogue,,0,0,0,,Raza Solară!
 Dialogue: 100,0:20:55.68,0:20:57.42,Dialogue,,0,0,0,,Uimitor, Sora!
 Dialogue: 100,0:20:57.42,0:20:59.73,Dialogue,,0,0,0,,Da, cu adevărat.
 Dialogue: 100,0:21:08.95,0:21:09.99,Dialogue,,0,0,0,,Retto!
-Dialogue: 100,0:21:09.99,0:21:13.25,Dialogue,,0,0,0,,Tenkuji! Unde-ți sunt hainele de schimb?
+Dialogue: 100,0:21:09.99,0:21:13.25,Dialogue,,0,0,0,,Tenkuuji! Unde-ți sunt hainele de schimb?
 Dialogue: 100,0:21:14.43,0:21:16.96,Dialogue,,0,0,0,,Lasă asta! Kirara...
 Dialogue: 100,0:21:17.37,0:21:19.10,Dialogue,,0,0,0,,Kirara a fost...
 Dialogue: 100,0:21:25.57,0:21:28.61,Dialogue,,0,0,0,,Maiestate, am reușit să luăm un ostatic.

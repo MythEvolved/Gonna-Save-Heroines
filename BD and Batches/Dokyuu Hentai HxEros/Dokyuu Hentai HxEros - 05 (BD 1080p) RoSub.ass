@@ -16,6 +16,8 @@ Synch Point: KazuyaShuu
 Script Updated By: KazuyaShuu
 Update Details: GSH
 
+[Aegisub Project Garbage]
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Aller Loose,78,&H00FFFFFF,&H000000FF,&H001F0843,&HB4000000,-1,0,0,0,100,100,0,0,1,4,2.59999,2,150,150,53,1
@@ -32,14 +34,14 @@ Comment: 0,0:11:19.95,0:11:19.99,Dialogue,chptr,0,0,0,,{Partea B}
 Comment: 0,0:22:04.92,0:22:04.97,Dialogue,chptr,0,0,0,,{ED}
 Comment: 0,0:23:34.93,0:23:34.97,Dialogue,chptr,0,0,0,,{Data viitoare}
 Dialogue: 100,0:00:03.88,0:00:04.77,Dialogue,,0,0,0,,Retto!
-Dialogue: 100,0:00:05.48,0:00:08.03,Dialogue,,0,0,0,,Tenkuji! Unde-ți sunt hainele de schimb?
+Dialogue: 100,0:00:05.48,0:00:08.03,Dialogue,,0,0,0,,Tenkuuji! Unde-ți sunt hainele de schimb?
 Dialogue: 100,0:00:09.24,0:00:11.14,Dialogue,,0,0,0,,Lasă asta! Kirara...
 Dialogue: 100,0:00:12.11,0:00:14.16,Dialogue,,0,0,0,,Kirara a fost...
 Dialogue: 100,0:01:49.14,0:01:51.25,Dialogue,,0,0,0,,{\i1}Super HxEros{\i0}!
 Dialogue: 100,0:01:51.25,0:01:54.76,Dialogue,,0,0,0,,Episodul 5: {\i1}Răspunsul diviziei HxEros{\i0}!
 Dialogue: 100,0:01:56.47,0:01:58.22,Dialogue,,0,0,0,,Îmi pare rău, prieteni.
 Dialogue: 100,0:01:58.22,0:02:00.79,Dialogue,,0,0,0,,Deși am fost cu ea...
-Dialogue: 100,0:02:01.22,0:02:04.81,Dialogue,,0,0,0,,Nu este vina ta, Tenkuji.
+Dialogue: 100,0:02:01.22,0:02:04.81,Dialogue,,0,0,0,,Nu este vina ta, Tenkuuji.
 Dialogue: 100,0:02:05.30,0:02:09.44,Dialogue,,0,0,0,,Niciunul dintre noi nu a crezut că acei Kiseichuu ar fi capabili de așa ceva.
 Dialogue: 100,0:02:09.99,0:02:11.55,Dialogue,,0,0,0,,Așa este.
 Dialogue: 100,0:02:11.55,0:02:15.60,Dialogue,,0,0,0,,Și cu toții ne facem griji pentru Hoshino.

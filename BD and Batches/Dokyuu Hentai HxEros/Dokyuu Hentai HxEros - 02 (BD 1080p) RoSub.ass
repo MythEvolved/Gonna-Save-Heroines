@@ -17,6 +17,8 @@ Synch Point: KazuyaShuu
 Script Updated By: KazuyaShuu
 Update Details: GSH
 
+[Aegisub Project Garbage]
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Aller Loose,78,&H00FFFFFF,&H000000FF,&H001F0843,&HB4000000,-1,0,0,0,100,100,0,0,1,4,2.59999,2,150,150,53,1
@@ -54,7 +56,7 @@ Dialogue: 100,0:03:05.33,0:03:07.04,Dialogue,,0,0,0,,{\i1}Asta e ceea ce te dera
 Dialogue: 100,0:03:08.00,0:03:11.83,Dialogue,,0,0,0,,Doamne. Băieții din zilele \Nnoastre n-au pic de curaj.
 Dialogue: 100,0:03:11.83,0:03:13.38,Dialogue,,0,0,0,,Vai...
 Dialogue: 100,0:03:13.38,0:03:15.84,Dialogue,,0,0,0,,Este așa de gălăgioasă.
-Dialogue: 100,0:03:17.21,0:03:18.97,Dialogue,,0,0,0,,Tenkuji?
+Dialogue: 100,0:03:17.21,0:03:18.97,Dialogue,,0,0,0,,Tenkuuji?
 Dialogue: 100,0:03:18.97,0:03:23.39,Dialogue,,0,0,0,,Retto, de ce dormi în camera mea?
 Dialogue: 100,0:03:23.39,0:03:25.43,Dialogue,,0,0,0,,Eu ar trebui să te întreb asta.
 Dialogue: 100,0:03:26.47,0:03:29.43,Dialogue,,0,0,0,,Probabil erai pe jumătate adormită și ai intrat aici din nou.

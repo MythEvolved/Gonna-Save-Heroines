@@ -17,6 +17,8 @@ Synch Point: KazuyaShuu
 Script Updated By: KazuyaShuu
 Update Details: GSH
 
+[Aegisub Project Garbage]
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Aller Loose,78,&H00FFFFFF,&H000000FF,&H001F0843,&HB4000000,-1,0,0,0,100,100,0,0,1,4,2.59999,2,150,150,53,1
@@ -289,7 +291,7 @@ Dialogue: 100,0:19:32.88,0:19:37.41,Dialogue,,0,0,0,,{\i1}dar dacă nu voi putea
 Dialogue: 100,0:19:40.20,0:19:41.66,Dialogue,,0,0,0,,{\i1}Asta a mers deja prea departe!
 Dialogue: 100,0:19:41.66,0:19:44.52,Dialogue,,0,0,0,,Ține-ți mâinile acasă!
 Dialogue: 100,0:19:47.36,0:19:49.33,Dialogue,,0,0,0,,Sunt plină.
-Dialogue: 100,0:19:51.04,0:19:53.67,Dialogue,,0,0,0,,Tu din nou, Tenkuji?
+Dialogue: 100,0:19:51.04,0:19:53.67,Dialogue,,0,0,0,,Tu din nou, Tenkuuji?
 Dialogue: 100,0:19:56.25,0:20:00.83,Dialogue,,0,0,0,,Ce? Ce faceți voi doi în camera mea?
 Dialogue: 100,0:20:00.83,0:20:03.29,Dialogue,,0,0,0,,Camera ta este dincolo!
 Dialogue: 100,0:20:04.01,0:20:06.72,Dialogue,,0,0,0,,Întrebarea mea este \Nde cât timp ești tu aici?
@@ -299,7 +301,7 @@ Dialogue: 100,0:20:12.76,0:20:15.11,Dialogue,,0,0,0,,Ce făceați voi doi?
 Dialogue: 100,0:20:15.95,0:20:18.56,Dialogue,,0,0,0,,Și eu am crezut că asta era camera mea.
 Dialogue: 100,0:20:18.56,0:20:21.28,Dialogue,,0,0,0,,O, încearcă să fii mai atentă!
 Dialogue: 100,0:20:21.70,0:20:24.41,Dialogue,,0,0,0,,Ei bine, voi pleca acum.
-Dialogue: 100,0:20:27.56,0:20:29.12,Dialogue,,0,0,0,,Și tu, Tenkuji.
+Dialogue: 100,0:20:27.56,0:20:29.12,Dialogue,,0,0,0,,Și tu, Tenkuuji.
 Dialogue: 100,0:20:29.12,0:20:31.75,Dialogue,,0,0,0,,Întoarce-te în camera ta.
 Dialogue: 100,0:20:37.98,0:20:42.99,Dialogue,,0,0,0,,{\i1}După ce mi-am făcut curaj pentru aia, s-a terminat fără să obținem ceva.
 Dialogue: 100,0:20:43.65,0:20:48.05,Dialogue,,0,0,0,,{\i1}Și, mai important, ce făcea o altă fată acolo înaintea mea?
