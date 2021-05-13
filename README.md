@@ -1,5 +1,5 @@
 # Gonna Save Heroines Project - Subtitles Repository
-Acesta este locul dedicat stocării suburilor, în diferitele lor stadii de finalizare, realizate în cadrul fansubului GSH (Gonna Save Heroines). Pot conține mici greșeli, deci acestea vor fi remediate și suburile actualizate imediat cum le descoperim sau ne sunt aduse la cunoștință acele greșeli.
+Acesta este locul dedicat stocării suburilor, în diferitele lor stadii de finalizare, realizate în cadrul fansubului GSH (Gonna Save Heroines). Suburile pot conține mici greșeli, deci acestea vor fi remediate și suburile actualizate imediat cum le descoperim sau ne sunt aduse la cunoștință acele greșeli.
 
 GSH este un proiect care are drept scop realizarea de subtitrări la cea mai înaltă calitate posibilă pentru diferite serii.
 
