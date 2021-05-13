@@ -3,6 +3,6 @@ Acesta este locul dedicat pentru stocarea suburilor realizate în cadrul fansubu
 
 [Discord](https://discord.gg/EaEeQc9uFz)
 
-[Website](www.gshproject.wordpress.com)
+[Website](https://gshproject.wordpress.com)
 
 [Nyaa Torrents](https://nyaa.si/user/KazuyaShuu)
