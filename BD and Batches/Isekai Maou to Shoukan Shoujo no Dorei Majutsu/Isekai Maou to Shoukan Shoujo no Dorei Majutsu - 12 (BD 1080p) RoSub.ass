@@ -89,7 +89,7 @@ Dialogue: 100,0:03:48.66,0:03:51.07,Dialogue,,0,0,0,,Alicia ne-a trădat.
 Dialogue: 100,0:03:53.84,0:03:58.04,Dialogue,,0,0,0,,A vrut de la bun început ca \NLordul Demon să fie reînviat.
 Dialogue: 100,0:03:58.04,0:04:00.09,Dialogue,,0,0,0,,A-Asta ar însemna că...
 Dialogue: 100,0:04:00.76,0:04:02.72,Dialogue,,0,0,0,,Îl venera pe Lordul Demon.
-Dialogue: 100,0:04:03.12,0:04:06.41,Dialogue,,0,0,0,,A forțat-o pe Krem să \Nîndure ceva foarte trist.
+Dialogue: 100,0:04:03.12,0:04:06.41,Dialogue,,0,0,0,,A forțat-o pe Klem să \Nîndure ceva foarte trist.
 Dialogue: 100,0:04:06.41,0:04:12.27,Dialogue,,0,0,0,,Să fii copleșit de ură era probabil \Ncheia pentru trezirea Lordului Demon.
 Dialogue: 100,0:04:12.27,0:04:15.16,Dialogue,,0,0,0,,Asta este îngrozitor.
 Dialogue: 100,0:04:15.97,0:04:16.77,Dialogue,,0,0,0,,Ce sunt alea?
@@ -115,22 +115,22 @@ Dialogue: 100,0:05:36.52,0:05:37.69,Dialogue,,0,0,0,,Prinde-o!
 Dialogue: 100,0:05:38.56,0:05:40.44,Dialogue,,0,0,0,,Ai făcut o treabă bună.
 Dialogue: 100,0:05:41.41,0:05:44.69,Dialogue,,0,0,0,,Drept recompensă, îți voi arăta \NMagia mea de Nivel Înalt!
 Dialogue: 100,0:05:45.12,0:05:48.57,Dialogue,,0,0,0,,Mi-a fost greu să lupt și s-o țin în zona de efect.
-Dialogue: 100,0:05:49.20,0:05:52.87,Dialogue,,0,0,0,,Acum, această lovitură ar \Ntrebui să te trezească, Krem!
+Dialogue: 100,0:05:49.20,0:05:52.87,Dialogue,,0,0,0,,Acum, această lovitură ar \Ntrebui să te trezească, Klem!
 Dialogue: 100,0:05:54.08,0:05:57.35,Dialogue,,0,0,0,,Abisul Apocalipsei!
 Dialogue: 100,0:06:11.82,0:06:12.62,Dialogue,,0,0,0,,Vino!
 Dialogue: 100,0:06:37.91,0:06:39.24,Dialogue,,0,0,0,,Cred că glumești!
 Dialogue: 100,0:06:39.24,0:06:41.50,Dialogue,,0,0,0,,Încă mai trăiește după acea lovitură?!
 Dialogue: 100,0:06:43.09,0:06:44.76,Dialogue,,0,0,0,,Încă vrei să lupți?
-Dialogue: 100,0:06:44.76,0:06:47.46,Dialogue,,0,0,0,,Krem!
-Dialogue: 100,0:06:47.95,0:06:50.51,Dialogue,,0,0,0,,Krem!
-Dialogue: 100,0:06:50.51,0:06:51.34,Dialogue,,0,0,0,,Krem!
-Dialogue: 100,0:06:54.00,0:06:55.10,Dialogue,,0,0,0,,{\i1}Krem!
-Dialogue: 100,0:06:56.77,0:06:59.72,Dialogue,,0,0,0,,Krem, sunt bine.
+Dialogue: 100,0:06:44.76,0:06:47.46,Dialogue,,0,0,0,,Klem!
+Dialogue: 100,0:06:47.95,0:06:50.51,Dialogue,,0,0,0,,Klem!
+Dialogue: 100,0:06:50.51,0:06:51.34,Dialogue,,0,0,0,,Klem!
+Dialogue: 100,0:06:54.00,0:06:55.10,Dialogue,,0,0,0,,{\i1}Klem!
+Dialogue: 100,0:06:56.77,0:06:59.72,Dialogue,,0,0,0,,Klem, sunt bine.
 Dialogue: 100,0:06:59.72,0:07:01.31,Dialogue,,0,0,0,,Te rog, întoarce-te la noi!
 Dialogue: 100,0:07:01.31,0:07:03.80,Dialogue,,0,0,0,,Haide să mâncăm biscuiți din nou.
 Dialogue: 100,0:07:13.64,0:07:15.32,Dialogue,,0,0,0,,Cu siguranță te-a durut foarte tare...
 Dialogue: 100,0:07:16.10,0:07:17.58,Dialogue,,0,0,0,,Dar este în regulă acum.
-Dialogue: 100,0:07:18.79,0:07:21.33,Dialogue,,0,0,0,,Haide să mergem acasă, Krem.
+Dialogue: 100,0:07:18.79,0:07:21.33,Dialogue,,0,0,0,,Haide să mergem acasă, Klem.
 Dialogue: 100,0:07:36.45,0:07:37.85,Dialogue,,0,0,0,,S-a terminat, nu-i așa?
 Dialogue: 100,0:07:42.73,0:07:45.91,Dialogue,,0,0,0,,Ești... în viață?
 Dialogue: 100,0:07:46.60,0:07:49.00,Dialogue,,0,0,0,,Bine ai revenit, Krem.
@@ -177,7 +177,7 @@ Dialogue: 100,0:10:09.16,0:10:10.46,Dialogue,,0,0,0,,Nu i-am chemat eu!
 Dialogue: 100,0:10:10.46,0:10:13.71,Dialogue,,0,0,0,,Nu avem de unde să știm asta.
 Dialogue: 100,0:10:16.05,0:10:17.36,Dialogue,,0,0,0,,{\i1}Ce să fac?
 Dialogue: 100,0:10:17.36,0:10:20.47,Dialogue,,0,0,0,,{\i1}Sylvie nu greșește, dar...
-Dialogue: 100,0:10:28.20,0:10:29.02,Dialogue,,0,0,0,,Krem.
+Dialogue: 100,0:10:28.20,0:10:29.02,Dialogue,,0,0,0,,Klem.
 Dialogue: 100,0:10:29.65,0:10:33.26,Dialogue,,0,0,0,,Ți-ar plăcea să trăiești în acest \Noraș alături de Rem și Shera?
 Dialogue: 100,0:10:33.80,0:10:34.89,Dialogue,,0,0,0,,Da.
 Dialogue: 100,0:10:34.89,0:10:37.01,Dialogue,,0,0,0,,Atunci, lasă-mă să-ți spun ceva.
@@ -186,7 +186,7 @@ Dialogue: 100,0:10:39.56,0:10:42.65,Dialogue,,0,0,0,,fără ca ceilalți aventur
 Dialogue: 100,0:10:42.65,0:10:45.17,Dialogue,,0,0,0,,Nu cred că există o astfel de ca—
 Dialogue: 100,0:10:45.17,0:10:46.12,Dialogue,,0,0,0,,Aia este...
 Dialogue: 100,0:10:47.04,0:10:48.81,Dialogue,,0,0,0,,O piatră magică pentru un pact?
-Dialogue: 100,0:10:49.66,0:10:52.58,Dialogue,,0,0,0,,Krem, pot pune Vraja de Subjugare asupra ta
+Dialogue: 100,0:10:49.66,0:10:52.58,Dialogue,,0,0,0,,Klem, pot pune Vraja de Subjugare asupra ta
 Dialogue: 100,0:10:53.04,0:10:54.84,Dialogue,,0,0,0,,și te pot face servitoarea mea!
 Dialogue: 100,0:10:54.84,0:10:56.09,Dialogue,,0,0,0,,Ce?!
 Dialogue: 100,0:10:56.09,0:10:58.27,Dialogue,,0,0,0,,Să mă faci servitoarea?
