@@ -355,12 +355,12 @@ Dialogue: 100,0:18:24.00,0:18:26.37,Dialogue,,0,0,0,,Eu sunt Lordul Demon,
 Dialogue: 100,0:18:26.37,0:18:29.84,Dialogue,,0,0,0,,dar nu contează cum îmi spuneți atât timp cât sunt biscuiți în joc.
 Dialogue: 100,0:18:29.84,0:18:31.09,Dialogue,,0,0,0,,Vă voi permite să-mi spuneți altfel.
 Dialogue: 100,0:18:32.13,0:18:34.09,Dialogue,,0,0,0,,În acest caz...
-Dialogue: 100,0:18:34.09,0:18:37.63,Dialogue,,0,0,0,,O, cum ți se pare Kremy?
+Dialogue: 100,0:18:34.09,0:18:37.63,Dialogue,,0,0,0,,O, cum ți se pare Klem?
 Dialogue: 100,0:18:42.93,0:18:44.64,Dialogue,,0,0,0,,Ești bine?
 Dialogue: 100,0:18:44.64,0:18:46.52,Dialogue,,0,0,0,,Ce s-a întâmplat cu el?
 Dialogue: 100,0:18:46.52,0:18:50.86,Dialogue,,0,0,0,,Când Diablo își folosește magia, \Nobosește și-și pierde toată energia.
 Dialogue: 100,0:18:50.86,0:18:55.53,Dialogue,,0,0,0,,O, da. Am auzit că rasele muritoare \Nobosesc atunci când folosesc magie.
-Dialogue: 100,0:18:55.53,0:18:57.20,Dialogue,,0,0,0,,Tu nu, Kremy?
+Dialogue: 100,0:18:55.53,0:18:57.20,Dialogue,,0,0,0,,Tu nu, Klem?
 Dialogue: 100,0:18:57.20,0:18:58.74,Dialogue,,0,0,0,,Nu, deoarece sunt un Lord Demon!
 Dialogue: 100,0:18:58.74,0:19:01.70,Dialogue,,0,0,0,,Magie infinită se formează \Nconstant înăuntrul meu!
 Dialogue: 100,0:19:01.70,0:19:02.99,Dialogue,,0,0,0,,{\i1}Asta este ca și cum ai trișa.
@@ -374,7 +374,7 @@ Dialogue: 100,0:19:22.97,0:19:27.02,Dialogue,,0,0,0,,deci m-am gândit să te \N
 Dialogue: 100,0:19:27.02,0:19:28.98,Dialogue,,0,0,0,,Ce... Stai! Hei!
 Dialogue: 100,0:19:28.98,0:19:31.56,Dialogue,,0,0,0,,Voi muritorii sunteți interesanți.
 Dialogue: 100,0:19:31.56,0:19:33.65,Dialogue,,0,0,0,,Așa vă transmiteți magia de la unul la altul?
-Dialogue: 100,0:19:33.94,0:19:35.86,Dialogue,,0,0,0,,Ai vrea să încerci și tu, Kremy?
+Dialogue: 100,0:19:33.94,0:19:35.86,Dialogue,,0,0,0,,Ai vrea să încerci și tu, Klem?
 Dialogue: 100,0:19:35.86,0:19:38.40,Dialogue,,0,0,0,,Dacă faci asta, te va ajuta \Nși pe tine să devii energică!
 Dialogue: 100,0:19:38.40,0:19:39.11,Dialogue,,0,0,0,,Ce ai spus?!
 Dialogue: 100,0:19:39.11,0:19:41.28,Dialogue,,0,0,0,,Chiar și cel care o face primește energie?!
@@ -387,7 +387,7 @@ Dialogue: 100,0:19:53.17,0:19:55.67,Dialogue,,0,0,0,,Și eu mă distrez!
 Dialogue: 100,0:19:55.67,0:19:57.63,Dialogue,,0,0,0,,{\i1}Ce se întâmplă aici?!
 Dialogue: 100,0:19:57.63,0:19:58.51,Dialogue,,0,0,0,,{\i1}Asta e de rău!
 Dialogue: 100,0:19:58.51,0:19:59.80,Dialogue,,0,0,0,,{\i1}Mă sperie!
-Dialogue: 100,0:19:59.80,0:20:03.68,Dialogue,,0,0,0,,{\i1}Krem îmi transmite foarte multă magie!
+Dialogue: 100,0:19:59.80,0:20:03.68,Dialogue,,0,0,0,,{\i1}Klem îmi transmite foarte multă magie!
 Dialogue: 100,0:20:04.89,0:20:06.01,Dialogue,,0,0,0,,Ce s-a întâmplat?
 Dialogue: 100,0:20:06.01,0:20:07.31,Dialogue,,0,0,0,,Îți place?
 Dialogue: 100,0:20:09.35,0:20:11.69,Dialogue,,0,0,0,,Diablo, cum este?
@@ -426,7 +426,7 @@ Dialogue: 100,0:21:55.46,0:21:57.88,Dialogue,,0,0,0,,Nu-i voi ierta niciodată
 Dialogue: 100,0:21:57.88,0:21:59.96,Dialogue,,0,0,0,,pe acei semi-oameni!
 Dialogue: 100,0:23:32.60,0:23:35.27,Dialogue,,0,0,0,,Lordul Demon a fost reînviat?! {ep11 19:55}
 Dialogue: 100,0:23:35.27,0:23:37.85,Dialogue,,0,0,0,,Urâtele rase muritoare vor pieri. {ep11 19:48}
-Dialogue: 100,0:23:37.85,0:23:39.98,Dialogue,,0,0,0,,{\i1}Îmi pare rău, Krem. {ep11 19:37}
+Dialogue: 100,0:23:37.85,0:23:39.98,Dialogue,,0,0,0,,{\i1}Îmi pare rău, Klem. {ep11 19:37}
 Dialogue: 0,0:02:50.52,0:02:54.52,KazuyaShuuSigns,,0,0,0,,{\fad(526,513)\fnHeuristica\b1\fs57\an2\blur6\bord1.5\pos(375,1005)\c&H000000&\3c&H000000&\1a&HFF&\fsp1.5\t(0,526,1,\1a&H00&)\t(3487,0,1,\1a&HFF&)}Episodul 10\N {\fs72}Reînvierea \NLordului Demon
 Dialogue: 1,0:02:50.52,0:02:54.52,KazuyaShuuSigns,,0,0,0,,{\an2\pos(375,1005)\fnHeuristica\fs57\fsp1.5\b1\blur0.68\fad(526,513)}Episodul 10\N {\fs72}Reînvierea \NLordului Demon
 Dialogue: 0,0:23:36.93,0:23:39.98,KazuyaShuuSigns,,0,0,0,,{\an2\pos(960,420)\fnHeuristica\fs66\fsp1.5\b1\c&H93B1BC&\blur0.68\fad(404,0)\t(0,404,\c&H056DB8&)}Episodul 11
