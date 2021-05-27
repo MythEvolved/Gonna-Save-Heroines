@@ -18,8 +18,8 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 45
-Active Line: 56
+Scroll Position: 59
+Active Line: 73
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -88,23 +88,23 @@ Dialogue: 0,0:03:04.88,0:03:08.57,Default,Nar,0,0,0,,{\i1}Dragonii: ființe miti
 Dialogue: 0,0:03:09.13,0:03:13.50,Default,Nar,0,0,0,,{\i1}Dar adevărul este că nu sunt nici mitice și nici ființe.
 Dialogue: 0,0:03:14.15,0:03:20.16,Default,Nar,0,0,0,,{\i1}Încă din vremuri străvechi, 72% din decesele din Londra
 Dialogue: 0,0:03:20.16,0:03:24.01,Default,Nar,0,0,0,,{\i1}erau provocate de creaturi grotești cunoscute ca dragoni.
-Dialogue: 0,0:03:24.89,0:03:30.25,Default,Nar,0,0,0,,{\i1}That is why they are so prominently\Ndisplayed on London's coat of arms.
-Dialogue: 0,0:03:31.35,0:03:34.37,Default,Nar,0,0,0,,{\i1}Rampaging dragons cause\Ngreat harm to humans.
-Dialogue: 0,0:03:35.63,0:03:40.06,Default,Nar,0,0,0,,{\i1}In order to prevent that,\Nthe dragons must be monitored.
-Dialogue: 0,0:03:40.06,0:03:45.26,Default,Nar,0,0,0,,{\i1}The citizens of Front London\Ncannot see the dragons.
-Dialogue: 0,0:03:46.28,0:03:49.83,Default,Nar,0,0,0,,{\i1}But there's also a Reverse London.
-Dialogue: 0,0:03:51.43,0:03:56.04,Default,Nar,0,0,0,,{\i1}Only those who live on the reverse\Nside of London can see the dragons.
-Dialogue: 0,0:03:57.17,0:04:04.85,Default,Nar,0,0,0,,{\an8\i1}It inevitably fell to the people of Reverse\NLondon to take care of and manage the dragons.
-Dialogue: 0,0:04:06.23,0:04:07.18,Default,Ninny,0,0,0,,{\an8}What the heck?!
-Dialogue: 0,0:04:07.54,0:04:12.81,Default,Ninny,0,0,0,,You guys still haven't fixed this from\Nwhen that big guy wrecked it? Pathetic!
-Dialogue: 0,0:04:12.81,0:04:15.06,Default,Guy,0,0,0,,S-Sorry...
+Dialogue: 0,0:03:24.89,0:03:30.25,Default,Nar,0,0,0,,{\i1}De asta sunt afișate atât de strident pe stema Londrei.
+Dialogue: 0,0:03:31.35,0:03:34.37,Default,Nar,0,0,0,,{\i1}Dragonii scăpați de sub control produc mult rău oamenilor.
+Dialogue: 0,0:03:35.63,0:03:40.06,Default,Nar,0,0,0,,{\i1}Ca să se prevină acest lucru, dragonii trebuiesc monitorizați.
+Dialogue: 0,0:03:40.06,0:03:45.26,Default,Nar,0,0,0,,{\i1}Cetățenii Londrei de Suprafață nu pot vedea dragonii.
+Dialogue: 0,0:03:46.28,0:03:49.83,Default,Nar,0,0,0,,{\i1}Dar există și Londra Răstunată.
+Dialogue: 0,0:03:51.43,0:03:56.04,Default,Nar,0,0,0,,{\i1}Doar cei care trăiesc pe partea răstunată a Londrei pot vedea dragonii.
+Dialogue: 0,0:03:57.17,0:04:04.85,Default,Nar,0,0,0,,{\an8\i1}Inevital, grija dragonilor a picat pe oamenii din Londra Răsturnată.
+Dialogue: 0,0:04:06.23,0:04:07.18,Default,Ninny,0,0,0,,{\an8}Ce naiba?!
+Dialogue: 0,0:04:07.54,0:04:12.81,Default,Ninny,0,0,0,,You guys still haven't fixed this from\Nwhen that big guy wrecked it? Jalnic!
+Dialogue: 0,0:04:12.81,0:04:15.06,Default,Guy,0,0,0,,N-Ne pare rău...
 Dialogue: 0,0:04:15.50,0:04:18.82,Default,Guy,0,0,0,,We were asked to get the monitor up first.
-Dialogue: 0,0:04:19.31,0:04:23.12,Default,Ninny,0,0,0,,And you! Why did you take on\Na two-person job by yourself?
-Dialogue: 0,0:04:23.12,0:04:25.11,Default,Noel,0,0,0,,Because you were late, Ninny.
-Dialogue: 0,0:04:25.11,0:04:26.70,Default,Ninny,0,0,0,,Most people would just wait!
-Dialogue: 0,0:04:29.75,0:04:33.58,Default,Noel,0,0,0,,If I took care of it on my own,\NI'd get the reward all to myself.
-Dialogue: 0,0:04:33.58,0:04:34.24,Default,Ninny,0,0,0,,I knew it!
-Dialogue: 0,0:04:34.73,0:04:36.75,Default,Ninny,0,0,0,,So that's what you're after.
+Dialogue: 0,0:04:19.31,0:04:23.12,Default,Ninny,0,0,0,,Și tu! Tu de ce te-ai apucat să faci o misiune de două persoane de una singură?
+Dialogue: 0,0:04:23.12,0:04:25.11,Default,Noel,0,0,0,,Deoarece tu ai întârziat, Ninny.
+Dialogue: 0,0:04:25.11,0:04:26.70,Default,Ninny,0,0,0,,Majoritatea oamenilor ar fi așteptat!
+Dialogue: 0,0:04:29.75,0:04:33.58,Default,Noel,0,0,0,,Dacă aș fi dus-o la bun sfârșit de una singură, toată răsplata ar fi fost a mea.
+Dialogue: 0,0:04:33.58,0:04:34.24,Default,Ninny,0,0,0,,Știam eu!
+Dialogue: 0,0:04:34.73,0:04:36.75,Default,Ninny,0,0,0,,Deci asta urmăreai tu.
 Dialogue: 0,0:04:36.75,0:04:40.01,Default,Noel,0,0,0,,You make plenty at your job in Front London,
 Dialogue: 0,0:04:40.01,0:04:42.56,Default,Noel,0,0,0,,so just exchange as much as you want.
 Dialogue: 0,0:04:43.69,0:04:46.34,Default,Ninny,0,0,0,,I have {\i1}some{\i0} pride, you know!
