@@ -18,8 +18,8 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 59
-Active Line: 73
+Scroll Position: 210
+Active Line: 223
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -107,154 +107,154 @@ Dialogue: 0,0:04:33.58,0:04:34.24,Default,Ninny,0,0,0,,Știam eu!
 Dialogue: 0,0:04:34.73,0:04:36.75,Default,Ninny,0,0,0,,Deci asta urmăreai tu.
 Dialogue: 0,0:04:36.75,0:04:40.01,Default,Noel,0,0,0,,You make plenty at your job in Front London,
 Dialogue: 0,0:04:40.01,0:04:42.56,Default,Noel,0,0,0,,so just exchange as much as you want.
-Dialogue: 0,0:04:43.69,0:04:46.34,Default,Ninny,0,0,0,,I have {\i1}some{\i0} pride, you know!
-Dialogue: 0,0:04:46.34,0:04:48.62,Default,Ninny,0,0,0,,And quit saying stuff like that.
-Dialogue: 0,0:04:49.61,0:04:50.60,Default,Noel,0,0,0,,Huh?
-Dialogue: 0,0:04:51.28,0:04:53.47,Default,Noel,0,0,0,,I lost achievement points.
-Dialogue: 0,0:04:54.38,0:04:57.35,Default,Noel,0,0,0,,But I plucked all the flowers that\Nbloomed so they wouldn't find out.
-Dialogue: 0,0:04:57.35,0:05:00.66,Default,Ninny,0,0,0,,Yes! I got points!
-Dialogue: 0,0:05:00.66,0:05:01.99,Default,Noel,0,0,0,,But why?
-Dialogue: 0,0:05:02.88,0:05:06.29,Default,Ninny,0,0,0,,Because of my assist at the end, duh.
+Dialogue: 0,0:04:43.69,0:04:46.34,Default,Ninny,0,0,0,,Am și eu {\i1}puțină{\i0} mândrie, știi!
+Dialogue: 0,0:04:46.34,0:04:48.62,Default,Ninny,0,0,0,,Și nu mai spune lucruri de genul acesta.
+Dialogue: 0,0:04:49.61,0:04:50.60,Default,Noel,0,0,0,,Ce?
+Dialogue: 0,0:04:51.28,0:04:53.47,Default,Noel,0,0,0,,Am pierdut puncte de realizare.
+Dialogue: 0,0:04:54.38,0:04:57.35,Default,Noel,0,0,0,,Dar i-am smuls toate florile care înfloriseră ca să nu se afle.
+Dialogue: 0,0:04:57.35,0:05:00.66,Default,Ninny,0,0,0,,Da! Am primit puncte!
+Dialogue: 0,0:05:00.66,0:05:01.99,Default,Noel,0,0,0,,Ce? De ce?
+Dialogue: 0,0:05:02.88,0:05:06.29,Default,Ninny,0,0,0,,Datorită ajutorului meu de la final, evident.
 Dialogue: 0,0:05:06.29,0:05:08.94,Default,Ninny,0,0,0,,That's the only reason our\Npayload made it out safe.
-Dialogue: 0,0:05:09.99,0:05:11.81,Default,Guy,0,0,0,,So cute.
-Dialogue: 0,0:05:11.81,0:05:12.83,Default,Guy,0,0,0,,Cut it out.
-Dialogue: 0,0:05:12.83,0:05:15.64,Default,Guy,0,0,0,,They'll be pissed if they catch \Nyou sneaking photos again.
-Dialogue: 0,0:05:15.64,0:05:17.12,Default,Ninny,0,0,0,,Hey, wait a minute!
-Dialogue: 0,0:05:17.34,0:05:20.71,Default,Ninny,0,0,0,,Why are you plucking flowers \Noff of bud bucks, anyway?!
-Dialogue: 0,0:05:20.71,0:05:22.63,Default,Noel,0,0,0,,Well, what was I supposed to do?
-Dialogue: 0,0:05:23.12,0:05:26.88,Default,Noel,0,0,0,,They go down in price if their \Nflowers bloom before they're sold.
-Dialogue: 0,0:05:27.31,0:05:29.11,Default,Noel,0,0,0,,I did it for our client.
-Dialogue: 0,0:05:30.18,0:05:32.75,Default,Noel,0,0,0,,See? Isn't it pretty?
-Dialogue: 0,0:05:32.75,0:05:34.89,Default,Noel,0,0,0,,You can touch it if you like.
-Dialogue: 0,0:05:35.19,0:05:36.72,Default,Noel,0,0,0,,You can't have it, though.
-Dialogue: 0,0:05:36.72,0:05:38.69,Default,Ninny,0,0,0,,A-As if I'd want it!
-Dialogue: 0,0:05:38.69,0:05:41.68,Default,Osushi,0,0,0,,Let me see your panties!
-Dialogue: 0,0:05:42.54,0:05:45.81,Default,Osushi,0,0,0,,Let me see your panties!
-Dialogue: 0,0:05:45.81,0:05:50.67,Default,Balgo,0,0,0,,Hey! Osushi!
-Dialogue: 0,0:05:49.37,0:05:50.67,Default,Guy,0,0,0,,What's that thing?
-Dialogue: 0,0:05:50.67,0:05:51.78,Default,Guy,0,0,0,,Is it a dark dragon?
-Dialogue: 0,0:05:52.31,0:05:54.59,Default,Guy,0,0,0,,In the middle of the city?
-Dialogue: 0,0:05:54.59,0:05:55.79,Default,Guy,0,0,0,,No...
-Dialogue: 0,0:05:55.79,0:05:56.95,Default,Guy,0,0,0,,It's just Balgo.
-Dialogue: 0,0:05:56.95,0:05:59.79,Default,Guy,0,0,0,,Damn it. Not him again.
-Dialogue: 0,0:05:59.79,0:06:03.92,Default,Balgo,0,0,0,,{\an8}Osushi! Calm down!
-Dialogue: 0,0:06:04.51,0:06:10.05,Default,Balgo,0,0,0,,You're a cutie! You're absolutely \Nadorable, so please, calm down!
-Dialogue: 0,0:06:11.84,0:06:13.31,Default,Ninny,0,0,0,,Hey, it's Balgo and Osushi.
-Dialogue: 0,0:06:13.66,0:06:14.93,Default,Noel,0,0,0,,Indeed it is.
-Dialogue: 0,0:06:15.44,0:06:19.21,Default,Ninny,0,0,0,,So do something about them. \NYou're in charge of them, aren't you?
-Dialogue: 0,0:06:19.85,0:06:22.57,Default,Noel,0,0,0,,{\i1}We're{\i0} in charge of them.
-Dialogue: 0,0:06:22.57,0:06:24.94,Default,Ninny,0,0,0,,He's your senior at school, isn't he?
-Dialogue: 0,0:06:25.15,0:06:27.95,Default,Noel,0,0,0,,I mean, it's probably fine.
-Dialogue: 0,0:06:28.72,0:06:32.07,Default,Noel,0,0,0,,Look. He's all smiles.\NWhy don't we have some tea?
-Dialogue: 0,0:06:33.17,0:06:34.54,Default,Ninny,0,0,0,,I want a caffè latte.
-Dialogue: 0,0:06:34.54,0:06:37.78,Default,Noel,0,0,0,,I'll be glad to push the button,\Nbut you have to put the money in.
-Dialogue: 0,0:06:38.94,0:06:41.44,Default,Chief,0,0,0,,There's nothing "fine" about this!
-Dialogue: 0,0:06:41.44,0:06:44.34,Default,Chief,0,0,0,,At this rate, Balgo's going to die!
-Dialogue: 0,0:06:44.64,0:06:49.97,Default,Chief,0,0,0,,We've been tasked with keeping an eye\Non him, so I need you two to do your jobs!
+Dialogue: 0,0:05:09.99,0:05:11.81,Default,Guy,0,0,0,,Sunt așa drăguțe.
+Dialogue: 0,0:05:11.81,0:05:12.83,Default,Guy,0,0,0,,Încetează.
+Dialogue: 0,0:05:12.83,0:05:15.64,Default,Guy,0,0,0,,Se vor enerva dacă te văd că le faci poze pe ascuns din nou.
+Dialogue: 0,0:05:15.64,0:05:17.12,Default,Ninny,0,0,0,,Hei, stai o secundă!
+Dialogue: 0,0:05:17.34,0:05:20.71,Default,Ninny,0,0,0,,De ce smulgi florile unui cerb cu muguri, oricum?!
+Dialogue: 0,0:05:20.71,0:05:22.63,Default,Noel,0,0,0,,Ei bine, ce ar fi trebuit să fac?
+Dialogue: 0,0:05:23.12,0:05:26.88,Default,Noel,0,0,0,,Prețul lor scade dacă florile lor înfloresc înainte să fie vânduți.
+Dialogue: 0,0:05:27.31,0:05:29.11,Default,Noel,0,0,0,,Am făcut-o pentru clientul nostru.
+Dialogue: 0,0:05:30.18,0:05:32.75,Default,Noel,0,0,0,,Vezi? Nu este drăguț?
+Dialogue: 0,0:05:32.75,0:05:34.89,Default,Noel,0,0,0,,Îți poți atinge dacă dorești.
+Dialogue: 0,0:05:35.19,0:05:36.72,Default,Noel,0,0,0,,Dar să știi că nu ți-l dau.
+Dialogue: 0,0:05:36.72,0:05:38.69,Default,Ninny,0,0,0,,D-De parcă l-aș vrea!
+Dialogue: 0,0:05:38.69,0:05:41.68,Default,Osushi,0,0,0,,Vreau să-ți văd chiloțeii!
+Dialogue: 0,0:05:42.54,0:05:45.81,Default,Osushi,0,0,0,,Vreau să-ți văd chiloțeii!
+Dialogue: 0,0:05:45.81,0:05:50.67,Default,Balgo,0,0,0,,Hei! Osushi!
+Dialogue: 0,0:05:49.37,0:05:50.67,Default,Guy,0,0,0,,Ce este chestia aia?
+Dialogue: 0,0:05:50.67,0:05:51.78,Default,Guy,0,0,0,,Este un dragon întunecat?
+Dialogue: 0,0:05:52.31,0:05:54.59,Default,Guy,0,0,0,,În mijlocul orașului?
+Dialogue: 0,0:05:54.59,0:05:55.79,Default,Guy,0,0,0,,Nu...
+Dialogue: 0,0:05:55.79,0:05:56.95,Default,Guy,0,0,0,,Este doar Balgo.
+Dialogue: 0,0:05:56.95,0:05:59.79,Default,Guy,0,0,0,,La naiba. Nu el din nou.
+Dialogue: 0,0:05:59.79,0:06:03.92,Default,Balgo,0,0,0,,{\an8}Osushi! Liniștește-te!
+Dialogue: 0,0:06:04.51,0:06:10.05,Default,Balgo,0,0,0,,Ești un drăguț! Ești total adorabil, deci, te rog, liniștește-te!
+Dialogue: 0,0:06:11.84,0:06:13.31,Default,Ninny,0,0,0,,Hei, sunt Balgo și Osushi.
+Dialogue: 0,0:06:13.66,0:06:14.93,Default,Noel,0,0,0,,Așa este.
+Dialogue: 0,0:06:15.44,0:06:19.21,Default,Ninny,0,0,0,,Deci fă ceva în legătură cu ei. Doar se află in grija ta, nu?
+Dialogue: 0,0:06:19.85,0:06:22.57,Default,Noel,0,0,0,,{\i1}Ei{\i0} sunt în grija {\i1}noastră{\i0}.
+Dialogue: 0,0:06:22.57,0:06:24.94,Default,Ninny,0,0,0,,Merge la aceeași școală ca tine doar că este mai mare, nu?
+Dialogue: 0,0:06:25.15,0:06:27.95,Default,Noel,0,0,0,,Adică, probabil este în regulă.
+Dialogue: 0,0:06:28.72,0:06:32.07,Default,Noel,0,0,0,,Privește. Zâmbește cu gura până la urechi. De ce nu servim niște ceai între timp?
+Dialogue: 0,0:06:33.17,0:06:34.54,Default,Ninny,0,0,0,,Eu vreau cafea cu lapte.
+Dialogue: 0,0:06:34.54,0:06:37.78,Default,Noel,0,0,0,,Voi fi bucuroasă să apăs pe buton, dar tu va trebui să bagi bani în tonomat.
+Dialogue: 0,0:06:38.94,0:06:41.44,Default,Chief,0,0,0,,Nu este nimic în regulă cu ce se întâmplă!
+Dialogue: 0,0:06:41.44,0:06:44.34,Default,Chief,0,0,0,,În acest ritm, Balgo va muri!
+Dialogue: 0,0:06:44.64,0:06:49.97,Default,Chief,0,0,0,,Treaba noastră este să fim cu ochii pe el, deci nu mai pierdeți timpul!
 Dialogue: 0,0:06:50.58,0:06:52.89,Default,Ninny,0,0,0,,Getting us to keep tabs on dragonclads
 Dialogue: 0,0:06:52.89,0:06:57.60,Default,Ninny,0,0,0,,is basically HQ's way of making\Nthis nonsense our problem.
-Dialogue: 0,0:06:58.38,0:07:02.28,Default,Ninny,0,0,0,,It's not like we get paid\Nor earn achievement points
-Dialogue: 0,0:07:02.28,0:07:04.23,Default,Ninny,0,0,0,,for keeping him out of trouble 24/7
-Dialogue: 0,0:07:04.54,0:07:06.29,Default,Ninny,0,0,0,,while we're on the job.
-Dialogue: 0,0:07:07.04,0:07:09.41,Default,Chief,0,0,0,,So we're back to that.
-Dialogue: 0,0:07:09.74,0:07:11.99,Default,Chief,0,0,0,,I figured you might say that...
-Dialogue: 0,0:07:12.66,0:07:14.73,Default,Chief,0,0,0,,So I talked to some of the higher-ups
-Dialogue: 0,0:07:14.73,0:07:19.20,Default,Chief,0,0,0,,and got you girls some extra money\Nand achievement points for this.
-Dialogue: 0,0:07:19.20,0:07:20.23,Default,Ninny,0,0,0,,Say what?!
-Dialogue: 0,0:07:22.20,0:07:24.84,Default,Ninny,0,0,0,,All right, fine. Let's do this!
-Dialogue: 0,0:07:26.25,0:07:27.75,Default,Ninny,0,0,0,,Let's go, Niiha!
-Dialogue: 0,0:07:28.64,0:07:30.63,Default,Ninny,0,0,0,,You're doing this for the money.
-Dialogue: 0,0:07:30.63,0:07:32.49,Default,Ninny,0,0,0,,I'm doing it for merit.
-Dialogue: 0,0:07:32.89,0:07:36.26,Default,Ninny,0,0,0,,But just so we don't sound completely\Nawful, we're doing it for society!
-Dialogue: 0,0:07:40.45,0:07:44.58,Default,Chief,0,0,0,,Could you maybe shout the\N"doing it for society" part first?
-Dialogue: 0,0:07:51.55,0:07:52.42,Default,Guy,0,0,0,,What the...
-Dialogue: 0,0:07:52.27,0:07:55.51,Default,Balgo,0,0,0,,{\an8}Osushi!
-Dialogue: 0,0:07:56.16,0:07:59.11,Default,Lady,0,0,0,,Well, if you say so, Daddy...
-Dialogue: 0,0:08:00.63,0:08:04.17,Default,Balgo,0,0,0,,You're such a good doggie, Osushi!
-Dialogue: 0,0:08:04.97,0:08:07.66,Default,Random lady,0,0,0,,It sure is noisy over there.
-Dialogue: 0,0:08:07.66,0:08:11.55,Default,Jimmy,0,0,0,,Yeah. Maybe there's a dragon on the loose.
-Dialogue: 0,0:08:11.85,0:08:15.63,Default,Random lady,0,0,0,,Don't even joke about that.\NMake sure it's spick and span up there.
-Dialogue: 0,0:08:15.63,0:08:17.05,Default,Jimmy,0,0,0,,Yes, ma'am.
-Dialogue: 0,0:08:19.18,0:08:20.68,Default,Balgo,0,0,0,,Wait!
-Dialogue: 0,0:08:24.90,0:08:27.19,Default,Jimmy,0,0,0,,Balgo, you idiot!
-Dialogue: 0,0:08:27.19,0:08:30.32,Default,Jimmy,0,0,0,,Don't come over here!
-Dialogue: 0,0:08:33.30,0:08:36.70,Default,Random lady,0,0,0,,Goodness, that chimney\Nsweep's really going at it.
-Dialogue: 0,0:08:37.71,0:08:40.20,Default,Balgo,0,0,0,,Sorry! I'm really sorry!
-Dialogue: 0,0:08:40.20,0:08:41.83,Default,Balgo,0,0,0,,Are you hurt?
-Dialogue: 0,0:08:44.12,0:08:45.61,Default,Jimmy,0,0,0,,You moron!
-Dialogue: 0,0:08:45.61,0:08:47.84,Default,Jimmy,0,0,0,,I'm not hurt!
-Dialogue: 0,0:08:47.84,0:08:52.34,Default,Jimmy,0,0,0,,I just don't wanna get arrested for \Nviolating the dragon contact law!
-Dialogue: 0,0:08:52.34,0:08:56.23,Default,Jimmy,0,0,0,,Wing Bind HQ is right over there!
+Dialogue: 0,0:06:58.38,0:07:02.28,Default,Ninny,0,0,0,,Nu e ca și cum suntem plătite sau primim puncte de realizare
+Dialogue: 0,0:07:02.28,0:07:04.23,Default,Ninny,0,0,0,,că ți-l ținem departe de belele 24/7
+Dialogue: 0,0:07:04.54,0:07:06.29,Default,Ninny,0,0,0,,în timp ce ne facem și treaba noastră.
+Dialogue: 0,0:07:07.04,0:07:09.41,Default,Chief,0,0,0,,Deci ne întoarcem la asta.
+Dialogue: 0,0:07:09.74,0:07:11.99,Default,Chief,0,0,0,,Mă gândeam că vei spune ceva de genul...
+Dialogue: 0,0:07:12.66,0:07:14.73,Default,Chief,0,0,0,,deci am vorbit cu cei de sus
+Dialogue: 0,0:07:14.73,0:07:19.20,Default,Chief,0,0,0,,și am reușit să vă fac rost de niște bani și puncte în plus pentru ceea ce faceți.
+Dialogue: 0,0:07:19.20,0:07:20.23,Default,Ninny,0,0,0,,Stai, ce?!
+Dialogue: 0,0:07:22.20,0:07:24.84,Default,Ninny,0,0,0,,În regulă, fie. Haide s-o facem!
+Dialogue: 0,0:07:26.25,0:07:27.75,Default,Ninny,0,0,0,,Să mergem, Niiha!
+Dialogue: 0,0:07:28.64,0:07:30.63,Default,Ninny,0,0,0,,Tu faci asta pentru bani.
+Dialogue: 0,0:07:30.63,0:07:32.49,Default,Ninny,0,0,0,,Eu o fac pentru reputație.
+Dialogue: 0,0:07:32.89,0:07:36.26,Default,Ninny,0,0,0,,Dar ca să nu pară că suntem niște persoane complet groaznice, o facem pentru societate!
+Dialogue: 0,0:07:40.45,0:07:44.58,Default,Chief,0,0,0,,Ai putea spune partea cu societatea prima, totuși?
+Dialogue: 0,0:07:51.55,0:07:52.42,Default,Guy,0,0,0,,Ce...
+Dialogue: 0,0:07:52.27,0:07:55.51,Default,Balgo,0,0,0,,{\an8}
+Dialogue: 0,0:07:56.16,0:07:59.11,Default,Lady,0,0,0,,Ei bine, dacă așa spui tu, tati...
+Dialogue: 0,0:08:00.63,0:08:04.17,Default,Balgo,0,0,0,,Ești un cățeluș așa de bun, Osushi!
+Dialogue: 0,0:08:04.97,0:08:07.66,Default,Random lady,0,0,0,,Se aude ceva gălăgie de acolo.
+Dialogue: 0,0:08:07.66,0:08:11.55,Default,Jimmy,0,0,0,,Da. Poate a scăpat un dragon de sub control.
+Dialogue: 0,0:08:11.85,0:08:15.63,Default,Random lady,0,0,0,,Nici să nu glumești cu asta. Asigură-te că va fi curat lună.
+Dialogue: 0,0:08:15.63,0:08:17.05,Default,Jimmy,0,0,0,,Da, doamnă.
+Dialogue: 0,0:08:19.18,0:08:20.68,Default,Balgo,0,0,0,,Stai!
+Dialogue: 0,0:08:24.90,0:08:27.19,Default,Jimmy,0,0,0,,Balgo, idiotule!
+Dialogue: 0,0:08:27.19,0:08:30.32,Default,Jimmy,0,0,0,,Nu veni încoace!
+Dialogue: 0,0:08:33.30,0:08:36.70,Default,Random lady,0,0,0,,Doamne, acel curățător de șemineuri chiar pare că face treabă.
+Dialogue: 0,0:08:37.71,0:08:40.20,Default,Balgo,0,0,0,,Îmi cer scuze! Chiar îmi pare rău!
+Dialogue: 0,0:08:40.20,0:08:41.83,Default,Balgo,0,0,0,,Te-ai rănit?
+Dialogue: 0,0:08:44.12,0:08:45.61,Default,Jimmy,0,0,0,,Idiotule!
+Dialogue: 0,0:08:45.61,0:08:47.84,Default,Jimmy,0,0,0,,Sunt bine!
+Dialogue: 0,0:08:47.84,0:08:52.34,Default,Jimmy,0,0,0,,Doar nu vreau să fiu arestat pentru încălcarea legii de contact cu dragonii!
+Dialogue: 0,0:08:52.34,0:08:56.23,Default,Jimmy,0,0,0,,Sediul central al Legământului Aripilor este chiar acolo!
 Dialogue: 0,0:09:03.27,0:09:04.63,Default,Balgo,0,0,0,,Noel!
-Dialogue: 0,0:09:05.44,0:09:07.24,Default,Balgo,0,0,0,,You saved me!
-Dialogue: 0,0:09:07.24,0:09:10.11,Default,Ninny,0,0,0,,I'm the one who saved you, you dumbass.
-Dialogue: 0,0:09:10.85,0:09:15.32,Default,Noel,0,0,0,,There, there. Please calm down, Osushi.
-Dialogue: 0,0:09:18.50,0:09:19.84,Default,Noel,0,0,0,,Osushi's calm now.
-Dialogue: 0,0:09:20.49,0:09:23.55,Default,Ninny,0,0,0,,What did you do to the poor thing, anyway?
-Dialogue: 0,0:09:23.55,0:09:26.75,Default,Balgo,0,0,0,,Nothing. I was just taking Osushi for a walk.
-Dialogue: 0,0:09:26.75,0:09:30.23,Default,Jimmy,0,0,0,,Uh... Thank you, witches.
-Dialogue: 0,0:09:30.23,0:09:34.17,Default,Jimmy,0,0,0,,So, um... about that chimney...
-Dialogue: 0,0:09:34.17,0:09:37.76,Default,Noel,0,0,0,,Your dragon insurance should cover it.
-Dialogue: 0,0:09:38.22,0:09:39.51,Default,Noel,0,0,0,,More importantly...
-Dialogue: 0,0:09:39.92,0:09:41.93,Default,Noel,0,0,0,,Did you come into contact with the dragon?
-Dialogue: 0,0:09:42.61,0:09:45.39,Default,Jimmy,0,0,0,,N-No! Not at all!
-Dialogue: 0,0:09:45.39,0:09:47.38,Default,Ninny,0,0,0,,Niiha, run the test.
-Dialogue: 0,0:09:47.83,0:09:48.65,Default,Noel,0,0,0,,Right.
-Dialogue: 0,0:09:50.44,0:09:51.61,Default,Noel,0,0,0,,Please lick this.
-Dialogue: 0,0:09:52.98,0:09:56.90,Default,Balgo,0,0,0,,Um... What happens if \Nsomeone touches a dragon?
-Dialogue: 0,0:09:58.37,0:10:00.66,Default,Noel,0,0,0,,For the protection of both \Ndragons and humans,
-Dialogue: 0,0:10:01.19,0:10:05.76,Default,Noel,0,0,0,,the Dragon Contact Prohibition\NLaw was passed in 1609.
-Dialogue: 0,0:10:06.19,0:10:08.29,Default,Noel,0,0,0,,Violators face 100 years in prison.
-Dialogue: 0,0:10:08.99,0:10:10.04,Default,Noel,0,0,0,,Or...
-Dialogue: 0,0:10:11.09,0:10:12.53,Default,Ninny,0,0,0,,They get executed.
-Dialogue: 0,0:10:12.53,0:10:13.66,Default,Balgo,0,0,0,,What?
-Dialogue: 0,0:10:16.67,0:10:18.30,Default,Noel,0,0,0,,It's within the normal range.
+Dialogue: 0,0:09:05.44,0:09:07.24,Default,Balgo,0,0,0,,M-ai salvat!
+Dialogue: 0,0:09:07.24,0:09:10.11,Default,Ninny,0,0,0,,Eu te-am salvat, tâmpitule.
+Dialogue: 0,0:09:10.85,0:09:15.32,Default,Noel,0,0,0,,Gata, gata. Liniștește-te, micuțule Osushi.
+Dialogue: 0,0:09:18.50,0:09:19.84,Default,Noel,0,0,0,,Osushi este cuminte acum.
+Dialogue: 0,0:09:20.49,0:09:23.55,Default,Ninny,0,0,0,,Ce i-ai făcut sărăcuțului, oricum?
+Dialogue: 0,0:09:23.55,0:09:26.75,Default,Balgo,0,0,0,,Nimic. Doar ieșisem cu el la o plimbare.
+Dialogue: 0,0:09:26.75,0:09:30.23,Default,Jimmy,0,0,0,,Păi... Mulțumesc, vrăjitoarelor.
+Dialogue: 0,0:09:30.23,0:09:34.17,Default,Jimmy,0,0,0,,Deci, ei bine... în legătură cu șemineul...
+Dialogue: 0,0:09:34.17,0:09:37.76,Default,Noel,0,0,0,,Asigurarea ta în privința dragonilor ar trebui să-l acopere.
+Dialogue: 0,0:09:38.22,0:09:39.51,Default,Noel,0,0,0,,Dar mai important...
+Dialogue: 0,0:09:39.92,0:09:41.93,Default,Noel,0,0,0,,Ai intrat în contact cu dragonul?
+Dialogue: 0,0:09:42.61,0:09:45.39,Default,Jimmy,0,0,0,,N-Nu! Nici măcar pentru o secundă!
+Dialogue: 0,0:09:45.39,0:09:47.38,Default,Ninny,0,0,0,,Niiha, fă-i testul.
+Dialogue: 0,0:09:47.83,0:09:48.65,Default,Noel,0,0,0,,Bine.
+Dialogue: 0,0:09:50.44,0:09:51.61,Default,Noel,0,0,0,,Linge asta, te rog.
+Dialogue: 0,0:09:52.98,0:09:56.90,Default,Balgo,0,0,0,,Ei bine... Ce se întâmplă dacă cineva atinge un dragon?
+Dialogue: 0,0:09:58.37,0:10:00.66,Default,Noel,0,0,0,,Pentru protecția atât a oamenilor, cât și a dragonilor,
+Dialogue: 0,0:10:01.19,0:10:05.76,Default,Noel,0,0,0,,s-a dat în 1609 legea interzicerii contactului cu dragonii.
+Dialogue: 0,0:10:06.19,0:10:08.29,Default,Noel,0,0,0,,Cei care o încalcă primesc 100 de ani în închisoare.
+Dialogue: 0,0:10:08.99,0:10:10.04,Default,Noel,0,0,0,,Sau...
+Dialogue: 0,0:10:11.09,0:10:12.53,Default,Ninny,0,0,0,,Sunt executați.
+Dialogue: 0,0:10:12.53,0:10:13.66,Default,Balgo,0,0,0,,Ce?
+Dialogue: 0,0:10:16.67,0:10:18.30,Default,Noel,0,0,0,,Este în parametri normali.
 Dialogue: 0,0:10:18.30,0:10:19.04,Default,,0,0,0,,Huh.
-Dialogue: 0,0:10:21.69,0:10:23.18,Default,Balgo,0,0,0,,Thank goodness!
-Dialogue: 0,0:10:23.18,0:10:24.66,Default,Ninny,0,0,0,,This is all your fault!
-Dialogue: 0,0:10:24.66,0:10:26.18,Default,Balgo,0,0,0,,I'm sorry!
-Dialogue: 0,0:10:26.18,0:10:27.77,Default,Ninny,0,0,0,,Who do you think... {\alpha&HFF&}caused...\Nthis mess... in the first place... huh?!
-Dialogue: 0,0:10:27.77,0:10:28.94,Default,Ninny,0,0,0,,Who do you think... caused...{\alpha&HFF&}\Nthis mess... in the first place... huh?!
-Dialogue: 0,0:10:28.60,0:10:29.59,Default,Balgo,0,0,0,,{\an8}Ow!
-Dialogue: 0,0:10:28.94,0:10:30.31,Default,Ninny,0,0,0,,Who do you think... caused...\Nthis mess... {\alpha&HFF&}in the first place... huh?!
-Dialogue: 0,0:10:30.31,0:10:31.69,Default,Ninny,0,0,0,,Who do you think... caused...\Nthis mess... in the first place... {\alpha&HFF&}huh?!
-Dialogue: 0,0:10:30.81,0:10:31.85,Default,Balgo,0,0,0,,{\an8}Ouch!
-Dialogue: 0,0:10:31.69,0:10:32.19,Default,Ninny,0,0,0,,Who do you think... caused...\Nthis mess... in the first place... huh?!
-Dialogue: 0,0:10:32.57,0:10:36.44,Default,Ninny,0,0,0,,Also, why don't you put a muzzle \Non Osushi when you go out?!
-Dialogue: 0,0:10:36.77,0:10:39.58,Default,Ninny,0,0,0,,You're the only civilian who can\Ntouch Osushi and not get locked up,
+Dialogue: 0,0:10:21.69,0:10:23.18,Default,Balgo,0,0,0,,Ce bine!
+Dialogue: 0,0:10:23.18,0:10:24.66,Default,Ninny,0,0,0,,Asta este numai vina ta!
+Dialogue: 0,0:10:24.66,0:10:26.18,Default,Balgo,0,0,0,,Îmi pare rău!
+Dialogue: 0,0:10:26.18,0:10:27.77,Default,Ninny,0,0,0,,Cine crezi că {\alpha&HFF&}este responsabil pentru tot acest balamuc?!
+Dialogue: 0,0:10:27.77,0:10:28.94,Default,Ninny,0,0,0,,Cine crezi că este responsabil {\alpha&HFF&}pentru tot acest balamuc?!
+Dialogue: 0,0:10:28.60,0:10:29.59,Default,Balgo,0,0,0,,{\an8}Au!
+Dialogue: 0,0:10:28.94,0:10:30.31,Default,Ninny,0,0,0,,Cine crezi că este responsabil pentru tot {\alpha&HFF&}acest balamuc?!
+Dialogue: 0,0:10:30.31,0:10:31.69,Default,Ninny,0,0,0,,Cine crezi că este responsabil pentru tot acest {\alpha&HFF&}balamuc?!
+Dialogue: 0,0:10:30.81,0:10:31.85,Default,Balgo,0,0,0,,{\an8}Auci!
+Dialogue: 0,0:10:31.69,0:10:32.19,Default,Ninny,0,0,0,,Cine crezi că este responsabil pentru tot acest balamuc?!
+Dialogue: 0,0:10:32.57,0:10:36.44,Default,Ninny,0,0,0,,Și de ce nu-i pui o botniță lui Osushi când ieși cu el pe afară?!
+Dialogue: 0,0:10:36.77,0:10:39.58,Default,Ninny,0,0,0,,Tu ești singurul civil care-l poate atinge pe Osushi, fără să fie închis,
 Dialogue: 0,0:10:39.58,0:10:41.96,Default,Ninny,0,0,0,,because you're a dragonclad!
-Dialogue: 0,0:10:41.96,0:10:43.20,Default,Ninny,0,0,0,,Do you realize that?!
-Dialogue: 0,0:10:44.06,0:10:45.99,Default,Balgo,0,0,0,,But I did put one on!
-Dialogue: 0,0:10:45.99,0:10:50.27,Default,Balgo,0,0,0,,It just got ripped off when Osushi suddenly \Nsprouted wings while we were walking!
-Dialogue: 0,0:10:51.84,0:10:54.69,Default,Noel,0,0,0,,Did Osushi really grow wings \Nwithout anything triggering it?
-Dialogue: 0,0:10:54.69,0:10:56.21,Default,Balgo,0,0,0,,Y-Yes!
-Dialogue: 0,0:10:56.21,0:10:57.56,Default,Noel,0,0,0,,Where did it happen?
-Dialogue: 0,0:10:58.40,0:11:00.67,Default,Balgo,0,0,0,,Huh? Where?
-Dialogue: 0,0:11:01.82,0:11:03.26,Default,Noel,0,0,0,,Please try to remember.
-Dialogue: 0,0:11:04.97,0:11:06.96,Default,Noel,0,0,0,,Osushi's wings usually appear
-Dialogue: 0,0:11:07.59,0:11:10.79,Default,Noel,0,0,0,,when you try to bark like Osushi,
-Dialogue: 0,0:11:11.31,0:11:13.39,Default,Noel,0,0,0,,or when you sneeze,
-Dialogue: 0,0:11:13.85,0:11:15.98,Default,Noel,0,0,0,,or when you start cracking up...
-Dialogue: 0,0:11:16.89,0:11:18.11,Default,Ninny,0,0,0,,So all the time, then.
-Dialogue: 0,0:11:18.68,0:11:19.55,Default,Noel,0,0,0,,Or...
-Dialogue: 0,0:11:20.92,0:11:23.40,Default,Noel,0,0,0,,when you're in danger, Balgo.
+Dialogue: 0,0:10:41.96,0:10:43.20,Default,Ninny,0,0,0,,Poți înțelege acest lucru?!
+Dialogue: 0,0:10:44.06,0:10:45.99,Default,Balgo,0,0,0,,I-am pus una!
+Dialogue: 0,0:10:45.99,0:10:50.27,Default,Balgo,0,0,0,,Dar a fost făcută bucăți când lui Osushi i-au crescut dintr-odată aripi în timp ce ne plimbam!
+Dialogue: 0,0:10:51.84,0:10:54.69,Default,Noel,0,0,0,,Chiar i-au crezut aripi fără să exite vreun motiv anume?
+Dialogue: 0,0:10:54.69,0:10:56.21,Default,Balgo,0,0,0,,D-Da!
+Dialogue: 0,0:10:56.21,0:10:57.56,Default,Noel,0,0,0,,Unde s-a întâmplat?
+Dialogue: 0,0:10:58.40,0:11:00.67,Default,Balgo,0,0,0,,Ce? Unde spui?
+Dialogue: 0,0:11:01.82,0:11:03.26,Default,Noel,0,0,0,,Încearcă să-ți amintești, te rog.
+Dialogue: 0,0:11:04.97,0:11:06.96,Default,Noel,0,0,0,,Lui Osushi îi apar aripile de obicei
+Dialogue: 0,0:11:07.59,0:11:10.79,Default,Noel,0,0,0,,când încerci să latri ca el
+Dialogue: 0,0:11:11.31,0:11:13.39,Default,Noel,0,0,0,,sau când strănuți
+Dialogue: 0,0:11:13.85,0:11:15.98,Default,Noel,0,0,0,,sau când începi să râzi...
+Dialogue: 0,0:11:16.89,0:11:18.11,Default,Ninny,0,0,0,,Deci mai tot timpul.
+Dialogue: 0,0:11:18.68,0:11:19.55,Default,Noel,0,0,0,,Sau...
+Dialogue: 0,0:11:20.92,0:11:23.40,Default,Noel,0,0,0,,când ești în pericol, Balgo.
 Dialogue: 0,0:11:31.04,0:11:33.12,Default,Noel,0,0,0,,It would appear that, as a dragonclad,
 Dialogue: 0,0:11:33.12,0:11:35.97,Default,Noel,0,0,0,,you aggressively attract\N dragons toward you.
-Dialogue: 0,0:11:37.36,0:11:41.08,Default,Noel,0,0,0,,For now, I need you to take Osushi and get\Nsomewhere where there aren't many people.
-Dialogue: 0,0:11:43.17,0:11:44.89,Default,Noel,0,0,0,,Ninny, the barrier tape.
-Dialogue: 0,0:11:45.19,0:11:46.26,Default,Ninny,0,0,0,,On it!
-Dialogue: 0,0:11:50.47,0:11:52.32,Default,Ninny,0,0,0,,So what now?
-Dialogue: 0,0:11:54.23,0:11:57.90,Default,Noel,0,0,0,,Magic Number 04: Stun Ball.
-Dialogue: 0,0:12:07.23,0:12:09.51,Default,Ninny,0,0,0,,Wait! What was the point of the barrier tape?!
-Dialogue: 0,0:12:10.10,0:12:11.51,Default,Noel,0,0,0,,Just in case.
-Dialogue: 0,0:12:12.14,0:12:13.50,Default,Noel,0,0,0,,Oh, Chief.
-Dialogue: 0,0:12:13.82,0:12:17.75,Default,Noel,0,0,0,,We've subdued a dragon,\Nso if we could get a bonus...
-Dialogue: 0,0:12:18.94,0:12:20.45,Default,Ninny,0,0,0,,Dragon insurance!
-Dialogue: 0,0:12:22.89,0:12:26.10,Default,Noel,0,0,0,,No, that's not our fault.
-Dialogue: 0,0:12:27.28,0:12:29.64,Default,Noel,0,0,0,,Please stop whining. It's quite pathetic.
-Dialogue: 0,0:12:29.64,0:12:32.90,Default,Chief,0,0,0,,{\i1}So you don't know what kind of dragon it is?
-Dialogue: 0,0:12:33.37,0:12:35.31,Default,Noel,0,0,0,,Correct.
-Dialogue: 0,0:12:35.31,0:12:38.18,Default,Noel,0,0,0,,It's the first time I've seen one like it,\Nso I don't know what kind it is.
+Dialogue: 0,0:11:37.36,0:11:41.08,Default,Noel,0,0,0,,Acum vreau să-l iei pe Osushi și să mergeți undeva unde nu sunt mulți oameni.
+Dialogue: 0,0:11:43.17,0:11:44.89,Default,Noel,0,0,0,,Ninny, banda barieră.
+Dialogue: 0,0:11:45.19,0:11:46.26,Default,Ninny,0,0,0,,Mă ocup!
+Dialogue: 0,0:11:50.47,0:11:52.32,Default,Ninny,0,0,0,,Și acum?
+Dialogue: 0,0:11:54.23,0:11:57.90,Default,Noel,0,0,0,,Numărul Magic 4: Stun Ball.
+Dialogue: 0,0:12:07.23,0:12:09.51,Default,Ninny,0,0,0,,Stai! Care e rostul bandei barieră?!
+Dialogue: 0,0:12:10.10,0:12:11.51,Default,Noel,0,0,0,,Doar o precauție.
+Dialogue: 0,0:12:12.14,0:12:13.50,Default,Noel,0,0,0,,Oh, șefule.
+Dialogue: 0,0:12:13.82,0:12:17.75,Default,Noel,0,0,0,,Am oprit un dragon, deci dacă am putea primi un bonus...
+Dialogue: 0,0:12:18.94,0:12:20.45,Default,Ninny,0,0,0,,Asigurarea în privința dragonilor!
+Dialogue: 0,0:12:22.89,0:12:26.10,Default,Noel,0,0,0,,Nu, asta nu e vina noastră.
+Dialogue: 0,0:12:27.28,0:12:29.64,Default,Noel,0,0,0,,Te rog să nu te mai plângi. Este jalnic.
+Dialogue: 0,0:12:29.64,0:12:32.90,Default,Chief,0,0,0,,{\i1}Deci nu știi ce fel de dragon este?
+Dialogue: 0,0:12:33.37,0:12:35.31,Default,Noel,0,0,0,,Așa este.
+Dialogue: 0,0:12:35.31,0:12:38.18,Default,Noel,0,0,0,,Este prima oară când am văzut unul de genul, deci nu știu ce fel de dragon este.
 Dialogue: 0,0:12:40.57,0:12:44.91,Default,Noel,0,0,0,,It was rather worked up, \Nso I stunned it to shut it up.
 Dialogue: 0,0:12:45.38,0:12:46.28,Default,Ninny,0,0,0,,Niiha!
 Dialogue: 0,0:13:04.97,0:13:06.89,Default,Ninny,0,0,0,,It just went lights out.
