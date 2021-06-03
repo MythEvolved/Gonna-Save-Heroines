@@ -18,8 +18,7 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 210
-Active Line: 223
+Active Line: 283
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -258,61 +257,61 @@ Dialogue: 0,0:12:35.31,0:12:38.18,Default,Noel,0,0,0,,Este prima oară când am 
 Dialogue: 0,0:12:40.57,0:12:44.91,Default,Noel,0,0,0,,It was rather worked up, \Nso I stunned it to shut it up.
 Dialogue: 0,0:12:45.38,0:12:46.28,Default,Ninny,0,0,0,,Niiha!
 Dialogue: 0,0:13:04.97,0:13:06.89,Default,Ninny,0,0,0,,It just went lights out.
-Dialogue: 0,0:13:12.52,0:13:13.14,Default,Ninny,0,0,0,,It's coming!
-Dialogue: 0,0:13:14.58,0:13:16.01,Default,Ninny,0,0,0,,We need to get it away from here!
-Dialogue: 0,0:13:16.01,0:13:16.82,Default,Noel,0,0,0,,I know.
-Dialogue: 0,0:13:28.67,0:13:31.03,Default,Ninny,0,0,0,,All right, this should be good—
+Dialogue: 0,0:13:12.52,0:13:13.14,Default,Ninny,0,0,0,,Vine!
+Dialogue: 0,0:13:14.58,0:13:16.01,Default,Ninny,0,0,0,,Trebuie să plecăm de aici!
+Dialogue: 0,0:13:16.01,0:13:16.82,Default,Noel,0,0,0,,Știu.
+Dialogue: 0,0:13:28.67,0:13:31.03,Default,Ninny,0,0,0,,În regulă, asta ar trebui să fie de ajuns...
 Dialogue: 0,0:13:31.03,0:13:34.75,Default,Ninny,0,0,0,,Oh, come on. You're making\N this really difficult to call in.
-Dialogue: 0,0:13:34.75,0:13:36.14,Default,Noel,0,0,0,,Ninny, in front of you!
-Dialogue: 0,0:13:51.63,0:13:52.56,Default,Ninny,0,0,0,,Chief.
-Dialogue: 0,0:13:52.56,0:13:55.30,Default,Ninny,0,0,0,,Rutherford Street. We need \Nan emergency dragon blockade.
-Dialogue: 0,0:13:56.39,0:13:57.95,Default,Ninny,0,0,0,,We've got a dark dragon.
-Dialogue: 0,0:14:10.24,0:14:10.90,Default,Guy,0,0,0,,What the...
-Dialogue: 0,0:14:10.90,0:14:12.77,Default,Lady,0,0,0,,What's that sound?
-Dialogue: 0,0:14:19.85,0:14:23.18,Default,Broadcast,0,0,0,,{\an8\i1}This is a notice from BBC Reverse London.
-Dialogue: 0,0:14:24.56,0:14:26.38,Default,Broadcast,0,0,0,,{\an8\i1}Due to a dark dragon alert,
-Dialogue: 0,0:14:27.13,0:14:30.23,Default,Broadcast,0,0,0,,{\an8\i1}Rutherford Street is now\Nunder a dragon blockade.
-Dialogue: 0,0:14:31.62,0:14:36.07,Default,Broadcast,0,0,0,,{\an8\i1}Anyone in the vicinity should\Nseek shelter immediately.
-Dialogue: 0,0:14:37.09,0:14:40.39,Default,Broadcast,0,0,0,,{\an8\i1}Wing Bind has the situation under control.
-Dialogue: 0,0:14:40.39,0:14:42.15,Default,Ninny,0,0,0,,You know what always gets me?
-Dialogue: 0,0:14:42.51,0:14:47.80,Default,Ninny,0,0,0,,Doesn't it just piss you off when they say,\N"Wing Bind has the situation under control"?
-Dialogue: 0,0:14:47.80,0:14:50.88,Default,Noel,0,0,0,,No, because it's our job.
-Dialogue: 0,0:14:50.88,0:14:51.95,Default,Ninny,0,0,0,,That's not what I mean!
-Dialogue: 0,0:14:52.42,0:14:54.95,Default,Ninny,0,0,0,,I'd be fine with it if we said it ourselves,
-Dialogue: 0,0:14:54.95,0:14:57.57,Default,Ninny,0,0,0,,but why's the BBC announcing it?
-Dialogue: 0,0:14:58.97,0:15:03.46,Default,Noel,0,0,0,,Chief, the dragon blockade is set up, \Nso it's time we switched out with the Sabres—
-Dialogue: 0,0:15:04.17,0:15:07.21,Default,Chief,0,0,0,,{\i1}Uh, hello? Noel? Hello—
-Dialogue: 0,0:15:07.95,0:15:09.97,Default,Noel,0,0,0,,What do you think you're doing?
-Dialogue: 0,0:15:10.45,0:15:14.44,Default,Ninny,0,0,0,,That's my line. You were really going \Nto let the Sabres take all the credit?
-Dialogue: 0,0:15:18.79,0:15:22.98,Default,Ninny,0,0,0,,This is our chance to show\NHR how powerful we are.
-Dialogue: 0,0:15:23.19,0:15:27.62,Default,Noel,0,0,0,,Our duty as Pipers is to take dragons \Nto pasture and harvest from them.
-Dialogue: 0,0:15:27.62,0:15:28.99,Default,Noel,0,0,0,,We don't need to be powerful—
-Dialogue: 0,0:15:27.90,0:15:29.79,Default,Ninny,0,0,0,,Like I said before...
-Dialogue: 0,0:15:32.35,0:15:35.49,Default,Ninny,0,0,0,,I want to join the Sabres!
-Dialogue: 0,0:15:38.28,0:15:40.96,Default,Noel,0,0,0,,Well, personally, I don't.
-Dialogue: 0,0:15:54.78,0:15:55.72,Default,Ninny,0,0,0,,I hit it.
+Dialogue: 0,0:13:34.75,0:13:36.14,Default,Noel,0,0,0,,Ninny, în fața ta!
+Dialogue: 0,0:13:51.63,0:13:52.56,Default,Ninny,0,0,0,,Șefule.
+Dialogue: 0,0:13:52.56,0:13:55.30,Default,Ninny,0,0,0,,Strada Rutherford. Avem nevoie de o blocadă anti-dragoni urgent.
+Dialogue: 0,0:13:56.39,0:13:57.95,Default,Ninny,0,0,0,,Este vorba de un dragon întunecat.
+Dialogue: 0,0:14:10.24,0:14:10.90,Default,Guy,0,0,0,,Ce naiba...
+Dialogue: 0,0:14:10.90,0:14:12.77,Default,Lady,0,0,0,,Ce a fost acel sunet?
+Dialogue: 0,0:14:19.85,0:14:23.18,Default,Broadcast,0,0,0,,{\an8\i1}Acesta este un anunț de la BBC-ul Londrei Răsturnate.
+Dialogue: 0,0:14:24.56,0:14:26.38,Default,Broadcast,0,0,0,,{\an8\i1}Din cauza alertei unui dragon întunecat,
+Dialogue: 0,0:14:27.13,0:14:30.23,Default,Broadcast,0,0,0,,{\an8\i1}pe strada Rutherford se află acum o blocadă anti-dragoni.
+Dialogue: 0,0:14:31.62,0:14:36.07,Default,Broadcast,0,0,0,,{\an8\i1}Toți cei din vecinătate ar trebui să-și caute adăpost cât mai repede.
+Dialogue: 0,0:14:37.09,0:14:40.39,Default,Broadcast,0,0,0,,{\an8\i1}Legământul Aripilor are situația sub control.
+Dialogue: 0,0:14:40.39,0:14:42.15,Default,Ninny,0,0,0,,Știi ce mă scoate din sărite mereu?
+Dialogue: 0,0:14:42.51,0:14:47.80,Default,Ninny,0,0,0,,Acel moment când ei spun că au situația sub control. Pe tine nu?
+Dialogue: 0,0:14:47.80,0:14:50.88,Default,Noel,0,0,0,,Nu, deoarece este treaba noastră.
+Dialogue: 0,0:14:50.88,0:14:51.95,Default,Ninny,0,0,0,,Nu la asta mă refeream!
+Dialogue: 0,0:14:52.42,0:14:54.95,Default,Ninny,0,0,0,,Aș fi în regulă cu asta dacă am spune-o noi,
+Dialogue: 0,0:14:54.95,0:14:57.57,Default,Ninny,0,0,0,,dar de ce o fac cei de la BBC?
+Dialogue: 0,0:14:58.97,0:15:03.46,Default,Noel,0,0,0,,Șefule, blocada anti-dragoni a fost ridicată, deci putem retrage Divizia Tactică...
+Dialogue: 0,0:15:04.17,0:15:07.21,Default,Chief,0,0,0,,{\i1}Păi, să vedem... Noel? Hei...
+Dialogue: 0,0:15:07.95,0:15:09.97,Default,Noel,0,0,0,,Ce crezi că faci?
+Dialogue: 0,0:15:10.45,0:15:14.44,Default,Ninny,0,0,0,,Asta este replica mea. Crezi că vom lăsa Divizia Tactică să ia toate meritele?
+Dialogue: 0,0:15:18.79,0:15:22.98,Default,Ninny,0,0,0,,Asta este șansa noastră să le arătăm celor de la resurse umane cât de puternici suntem.
+Dialogue: 0,0:15:23.19,0:15:27.62,Default,Noel,0,0,0,,Datoria noastră ca Divizia Menestrelilor este să ducem dragonii la pășunat și să-i recoltăm.
+Dialogue: 0,0:15:27.62,0:15:28.99,Default,Noel,0,0,0,,Nu trebuie să ne folosim puterile ca să...
+Dialogue: 0,0:15:27.90,0:15:29.79,Default,Ninny,0,0,0,,După cum am mai zis...
+Dialogue: 0,0:15:32.35,0:15:35.49,Default,Ninny,0,0,0,,Eu vreau să mă alătur Diviziei Tactice!
+Dialogue: 0,0:15:38.28,0:15:40.96,Default,Noel,0,0,0,,Ei bine, eu nu-mi doresc acest lucru.
+Dialogue: 0,0:15:54.78,0:15:55.72,Default,Ninny,0,0,0,,L-am nimerit.
 Dialogue: 0,0:15:56.10,0:15:57.43,Default,Ninny,0,0,0,,Whoa...
-Dialogue: 0,0:15:58.40,0:16:02.10,Default,Ninny,0,0,0,,Magic Number 28: Rainy Wheel!
-Dialogue: 0,0:16:13.24,0:16:15.45,Default,Balgo,0,0,0,,Help...
+Dialogue: 0,0:15:58.40,0:16:02.10,Default,Ninny,0,0,0,,Numărul Magic 28: Roata Ploioasă!
+Dialogue: 0,0:16:13.24,0:16:15.45,Default,Balgo,0,0,0,,Ajutor...
 Dialogue: 0,0:16:17.87,0:16:18.75,Default,Noel,0,0,0,,Balgo.
-Dialogue: 0,0:16:23.75,0:16:25.67,Default,Noel,0,0,0,,Leave this to me.
-Dialogue: 0,0:16:27.65,0:16:31.45,Default,Noel,0,0,0,,Magic Number 75: Gatling Crown!
+Dialogue: 0,0:16:23.75,0:16:25.67,Default,Noel,0,0,0,,Lasă asta în seama mea.
+Dialogue: 0,0:16:27.65,0:16:31.45,Default,Noel,0,0,0,,Numărul Magic 75: Gatling Crown!
 Dialogue: 0,0:16:37.60,0:16:40.77,Default,Bruno,0,0,0,,Hey. This is a huge deal.
 Dialogue: 0,0:16:41.30,0:16:42.77,Default,Bruno,0,0,0,,How many years has it been?
-Dialogue: 0,0:16:42.77,0:16:43.99,Default,Bruno,0,0,0,,It's been a century!
-Dialogue: 0,0:16:43.99,0:16:45.86,Default,Roy,0,0,0,,Ninety-six years, to be precise.
-Dialogue: 0,0:16:46.84,0:16:48.35,Default,Bruno,0,0,0,,That's basically a century!
-Dialogue: 0,0:16:49.25,0:16:55.41,Default,Bruno,0,0,0,,A whole century since the last time we let \Na dark dragon get into Reverse London!
-Dialogue: 0,0:16:55.91,0:16:58.07,Default,Bruno,0,0,0,,If this isn't a catastrophe, what the hell {\i1}is{\i0}?!
-Dialogue: 0,0:16:58.64,0:17:00.45,Default,Bruno,0,0,0,,Could you show up for once?!
-Dialogue: 0,0:17:01.01,0:17:02.89,Default,Bruno,0,0,0,,Stop chewing gum!
-Dialogue: 0,0:17:03.74,0:17:06.21,Default,Bruno,0,0,0,,You guys seriously have nothin' to say?
-Dialogue: 0,0:17:06.21,0:17:09.13,Default,Bruno,0,0,0,,Am I the only one upset here? Huh?!
-Dialogue: 0,0:17:09.60,0:17:11.79,Default,Roy,0,0,0,,I'm pretty sure I spoke.
-Dialogue: 0,0:17:13.21,0:17:20.24,Default,Bruno,0,0,0,,Anyway, my point is, letting this\NBalgo guy run around is the problem.
-Dialogue: 0,0:17:21.11,0:17:23.47,Default,Bruno,0,0,0,,What do you say, Old Man Wolfy?
+Dialogue: 0,0:16:42.77,0:16:43.99,Default,Bruno,0,0,0,,A trecut un secol!
+Dialogue: 0,0:16:43.99,0:16:45.86,Default,Roy,0,0,0,,Nouăzeci și șase de ani, mai exact.
+Dialogue: 0,0:16:46.84,0:16:48.35,Default,Bruno,0,0,0,,Asta cam e un secol!
+Dialogue: 0,0:16:49.25,0:16:55.41,Default,Bruno,0,0,0,,Un întreg secol de la ultima oară când am lăsat un dragon întunecat să ajungă în Londra Răsturnată!
+Dialogue: 0,0:16:55.91,0:16:58.07,Default,Bruno,0,0,0,,Dacă asta nu este o catastrofă, atunci ce naiba {\i1}este{\i0}?!
+Dialogue: 0,0:16:58.64,0:17:00.45,Default,Bruno,0,0,0,,Ai putea să te arăți odată?!
+Dialogue: 0,0:17:01.01,0:17:02.89,Default,Bruno,0,0,0,,Nu mai mesteca gumă!
+Dialogue: 0,0:17:03.74,0:17:06.21,Default,Bruno,0,0,0,,Voi chiar nu aveți nimic de spus?
+Dialogue: 0,0:17:06.21,0:17:09.13,Default,Bruno,0,0,0,,Sunt singurul nervos aici? Ce?!
+Dialogue: 0,0:17:09.60,0:17:11.79,Default,Roy,0,0,0,,Sunt destul de sigur că am vorbit.
+Dialogue: 0,0:17:13.21,0:17:20.24,Default,Bruno,0,0,0,,Oricum, vreau să spun ca este o problemă să-l lăsăm pe acest Balgo să umble liber.
+Dialogue: 0,0:17:21.11,0:17:23.47,Default,Bruno,0,0,0,,Ce părere ai, Old Man Wolfy?
 Dialogue: 0,0:17:25.60,0:17:30.43,Default,Wolfgang,0,0,0,,{\an8}He has been the topic of countless \Ndiscussions within our squad
 Dialogue: 0,0:17:30.43,0:17:33.90,Default,Wolfgang,0,0,0,,{\an8}in the month since he became a dragonclad.
-Dialogue: 0,0:17:35.19,0:17:38.24,Default,Wolfgang,0,0,0,,This situation occurred \Ndue to our own negligence.
-Dialogue: 0,0:17:38.65,0:17:41.18,Default,Wolfgang,0,0,0,,We cannot simply ignore it.
+Dialogue: 0,0:17:35.19,0:17:38.24,Default,Wolfgang,0,0,0,,Această situație a avut loc din cauza neglijenței noastre.
+Dialogue: 0,0:17:38.65,0:17:41.18,Default,Wolfgang,0,0,0,,Nu o putem ignora pur și simplu.
 Dialogue: 0,0:17:43.17,0:17:47.71,Default,Wolfgang,0,0,0,,We will proceed with the plan to eliminate\Nthe dragonclad known as Balgo Parks.
