@@ -17,8 +17,8 @@ Original Script: GSH
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Scroll Position: 189
-Active Line: 201
+Scroll Position: 272
+Active Line: 285
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -234,88 +234,88 @@ Dialogue: 0,0:12:48.44,0:12:49.88,Default,Ninny,0,0,0,,Ești sărit de pe fix...
 Dialogue: 0,0:12:49.88,0:12:52.24,Default,Noel,0,0,0,,Asta înseamnă că l-ai înscenat pe Balgo?
 Dialogue: 0,0:12:52.24,0:12:54.00,Default,Noel,0,0,0,,What good will come of that?
 Dialogue: 0,0:12:54.00,0:12:56.07,Default,Bruno,0,0,0,,Oh, plenty of good will come of it.
-Dialogue: 0,0:12:56.07,0:12:59.50,Default,Bruno,0,0,0,,At 22:00 last night,\Na punitive dragon designation
-Dialogue: 0,0:12:59.50,0:13:02.02,Default,Bruno,0,0,0,,and elimination order for\NBalgo Parks was issued.
-Dialogue: 0,0:13:02.02,0:13:06.01,Default,Bruno,0,0,0,,In just a few hours, \Nthere'll be a bounty on his head.
-Dialogue: 0,0:13:06.87,0:13:12.77,Default,Bruno,0,0,0,,And whoever takes him out will go down \Nin Reverse London's history forever.
-Dialogue: 0,0:13:14.29,0:13:16.83,Default,Bruno,0,0,0,,I'll be taking him in for now.
-Dialogue: 0,0:13:17.46,0:13:19.85,Default,Bruno,0,0,0,,And as soon as the order goes into effect,
-Dialogue: 0,0:13:19.85,0:13:21.04,Default,Bruno,0,0,0,,I'll kill him on the spot.
-Dialogue: 0,0:13:22.40,0:13:24.79,Default,Bruno,0,0,0,,Don't even try crying or negotiating.
-Dialogue: 0,0:13:24.79,0:13:27.76,Default,Bruno,0,0,0,,I'm still working under the \NDragon Contact Prohibition Law.
-Dialogue: 0,0:13:27.76,0:13:31.54,Default,Bruno,0,0,0,,I said it before, but I don't plan\Non taking you two out, as well...
-Dialogue: 0,0:13:32.10,0:13:34.04,Default,Bruno,0,0,0,,As long as you stay out of my way, that is.
+Dialogue: 0,0:12:56.07,0:12:59.50,Default,Bruno,0,0,0,,Noaptea trecută la ora 22:00, a fost aleasă o pedeapsă
+Dialogue: 0,0:12:59.50,0:13:02.02,Default,Bruno,0,0,0,,și emis un ordin de eliminare pentru Balgo Parks.
+Dialogue: 0,0:13:02.02,0:13:06.01,Default,Bruno,0,0,0,,În doar câteva ore, o recompensă va fi pusă pe numele lui.
+Dialogue: 0,0:13:06.87,0:13:12.77,Default,Bruno,0,0,0,,Și persoana care-l va elimina va intra pe vecie în istoria Londrei Răsturnate.
+Dialogue: 0,0:13:14.29,0:13:16.83,Default,Bruno,0,0,0,,Îl voi prelua eu acum.
+Dialogue: 0,0:13:17.46,0:13:19.85,Default,Bruno,0,0,0,,Imediat cum ordinul va intra în efect,
+Dialogue: 0,0:13:19.85,0:13:21.04,Default,Bruno,0,0,0,,îl voi ucide pe loc.
+Dialogue: 0,0:13:22.40,0:13:24.79,Default,Bruno,0,0,0,,Nici măcar să nu încercați să plângeți sau să negociați.
+Dialogue: 0,0:13:24.79,0:13:27.76,Default,Bruno,0,0,0,,Încă respect legea interzicerii contactului cu dragonii.
+Dialogue: 0,0:13:27.76,0:13:31.54,Default,Bruno,0,0,0,,Am mai spus asta și înainte, dar nu plănuiesc să vă elimin și pe voi...
+Dialogue: 0,0:13:32.10,0:13:34.04,Default,Bruno,0,0,0,,Sau cel puțin, nu o voi face dacă veți sta cuminți.
 Dialogue: 0,0:13:35.52,0:13:36.68,Default,Noel,0,0,0,,Bruno.
-Dialogue: 0,0:13:37.15,0:13:38.17,Default,Bruno,0,0,0,,Huh?
-Dialogue: 0,0:13:39.55,0:13:41.42,Default,Noel,0,0,0,,You have the worst dye job I've ever seen.
-Dialogue: 0,0:13:41.42,0:13:43.17,Default,Bruno,0,0,0,,The hell did you just say?!
-Dialogue: 0,0:13:43.17,0:13:44.57,Default,Bruno,0,0,0,,I'll kill you!
+Dialogue: 0,0:13:37.15,0:13:38.17,Default,Bruno,0,0,0,,Ce?
+Dialogue: 0,0:13:39.55,0:13:41.42,Default,Noel,0,0,0,,Nu am văzut niciodată o frizură mai oribilă ca a ta.
+Dialogue: 0,0:13:41.42,0:13:43.17,Default,Bruno,0,0,0,,Poftim?!
+Dialogue: 0,0:13:43.17,0:13:44.57,Default,Bruno,0,0,0,,Te voi ucide!
 Dialogue: 0,0:13:46.20,0:13:47.21,Default,Ninny,0,0,0,,Niiha!
-Dialogue: 0,0:13:47.67,0:13:51.09,Default,Noel,0,0,0,,Yes? I don't think I did anything \Nworthy of being scolded.
-Dialogue: 0,0:13:51.09,0:13:52.20,Default,Ninny,0,0,0,,No!
-Dialogue: 0,0:13:53.58,0:13:56.47,Default,Ninny,0,0,0,,I was gonna compliment \Nyou and say "good job"!
-Dialogue: 0,0:13:56.47,0:13:59.01,Default,Noel,0,0,0,,It didn't exactly warrant \Na compliment, either.
-Dialogue: 0,0:14:00.48,0:14:04.14,Default,Bruno,0,0,0,,I was trying to be nice\N'cause you're just lackeys,
-Dialogue: 0,0:14:04.14,0:14:06.32,Default,Bruno,0,0,0,,but you just had to get cocky...
-Dialogue: 0,0:14:06.69,0:14:09.70,Default,Bruno,0,0,0,,This is definitely gonna be\Nan "accident on the job."
-Dialogue: 0,0:14:09.70,0:14:12.44,Default,Bruno,0,0,0,,Guess I don't mind writing\Nup those reports after all!
-Dialogue: 0,0:14:13.90,0:14:15.41,Default,Bruno,0,0,0,,What're you doing, damn it?!
-Dialogue: 0,0:14:15.41,0:14:17.46,Default,Bruno,0,0,0,,You're not coming at me?!
-Dialogue: 0,0:14:20.96,0:14:22.84,Default,Bruno,0,0,0,,You dumbasses! Look up!
-Dialogue: 0,0:14:22.84,0:14:24.09,Default,Bruno,0,0,0,,Put up a shield!
-Dialogue: 0,0:14:29.42,0:14:30.59,Default,Balgo,0,0,0,,Magic?
-Dialogue: 0,0:14:35.94,0:14:39.85,Default,Balgo,0,0,0,,N-Noel? You came to rescue me?
-Dialogue: 0,0:14:40.34,0:14:44.61,Default,Noel,0,0,0,,Well... I can't deny that you were\Nrescued as a result of my actions.
-Dialogue: 0,0:14:44.61,0:14:46.56,Default,Balgo,0,0,0,,Awesome!
-Dialogue: 0,0:14:46.56,0:14:49.11,Default,Balgo,0,0,0,,Though I have no idea\Nwhat I've gotten myself into!
-Dialogue: 0,0:14:49.11,0:14:52.37,Default,Balgo,0,0,0,,Go me!
-Dialogue: 0,0:14:52.69,0:14:53.78,Default,Bruno,0,0,0,,Damn it!
-Dialogue: 0,0:14:57.49,0:14:59.07,Default,Ninny,0,0,0,,I have a question for you.
-Dialogue: 0,0:15:01.30,0:15:06.09,Default,Bruno,0,0,0,,This isn't how that usually works, but I guess \Nthat's how you Pipers learn to operate.
-Dialogue: 0,0:15:06.09,0:15:10.13,Default,Ninny,0,0,0,,Are you the one who brought \NMacy to Reverse London?
-Dialogue: 0,0:15:10.13,0:15:12.34,Default,Ninny,0,0,0,,Why does she have a dragon with her?
-Dialogue: 0,0:15:13.39,0:15:16.68,Default,Bruno,0,0,0,,Couldn't just keep it to one question,\Nyou stupid little brat?
-Dialogue: 0,0:15:18.78,0:15:21.87,Default,Bruno,0,0,0,,That's right. I scouted her\Nand brought her here.
-Dialogue: 0,0:15:22.69,0:15:27.46,Default,Bruno,0,0,0,,She'd found a baby dragon in\NFront London and was raising it.
-Dialogue: 0,0:15:28.60,0:15:31.58,Default,Bruno,0,0,0,,I'm sure you wanted to pin\Nthat dragon on me, too,
-Dialogue: 0,0:15:31.58,0:15:32.65,Default,Bruno,0,0,0,,but it wasn't my doing.
-Dialogue: 0,0:15:33.24,0:15:37.30,Default,Bruno,0,0,0,,That woman is one of those rare people\Nborn in Front London who just happens
-Dialogue: 0,0:15:37.30,0:15:39.41,Default,Bruno,0,0,0,,to possess a high amount of mana.
-Dialogue: 0,0:15:40.92,0:15:42.17,Default,Bruno,0,0,0,,She's a Watcher.
-Dialogue: 0,0:15:46.59,0:15:49.38,Default,Ninny,0,0,0,,Macy's... a Watcher?
-Dialogue: 0,0:15:50.29,0:15:53.60,Default,Bruno,0,0,0,,She would've ended up in\NReverse London sooner or later.
-Dialogue: 0,0:15:53.60,0:15:57.01,Default,Bruno,0,0,0,,Just like you and Noel Niihashi did...
-Dialogue: 0,0:15:57.01,0:15:57.87,Default,Bruno,0,0,0,,Right?!
+Dialogue: 0,0:13:47.67,0:13:51.09,Default,Noel,0,0,0,,Da? Nu cred că am făcut nimic pentru care să fiu certată.
+Dialogue: 0,0:13:51.09,0:13:52.20,Default,Ninny,0,0,0,,Nu!
+Dialogue: 0,0:13:53.58,0:13:56.47,Default,Ninny,0,0,0,,Voiam să te complimentez și să-ți spun că ai făcut o treabă bună!
+Dialogue: 0,0:13:56.47,0:13:59.01,Default,Noel,0,0,0,,Și nici nu prea cred că merit un compliment.
+Dialogue: 0,0:14:00.48,0:14:04.14,Default,Bruno,0,0,0,,Încercam să fiu drăguț deoarece sunteți doar niște lachei,
+Dialogue: 0,0:14:04.14,0:14:06.32,Default,Bruno,0,0,0,,dar mai aveți și gura mare...
+Dialogue: 0,0:14:06.69,0:14:09.70,Default,Bruno,0,0,0,,Acesta va fi cu siguranță un "accident la locul de muncă".
+Dialogue: 0,0:14:09.70,0:14:12.44,Default,Bruno,0,0,0,,Bănuiesc că nu mă deranjează să scriu acele rapoarte până la urmă!
+Dialogue: 0,0:14:13.90,0:14:15.41,Default,Bruno,0,0,0,,Ce tot faceți, la naiba?!
+Dialogue: 0,0:14:15.41,0:14:17.46,Default,Bruno,0,0,0,,Nu veniti spre mine?!
+Dialogue: 0,0:14:20.96,0:14:22.84,Default,Bruno,0,0,0,,Idioților! Priviți în sus!
+Dialogue: 0,0:14:22.84,0:14:24.09,Default,Bruno,0,0,0,,Ridicați un scut!
+Dialogue: 0,0:14:29.42,0:14:30.59,Default,Balgo,0,0,0,,Magie?
+Dialogue: 0,0:14:35.94,0:14:39.85,Default,Balgo,0,0,0,,N-Noel? Ai venit să mă salvezi?
+Dialogue: 0,0:14:40.34,0:14:44.61,Default,Noel,0,0,0,,Ei bine... Nu pot nega că ai fost salvat de acțiunile mele.
+Dialogue: 0,0:14:44.61,0:14:46.56,Default,Balgo,0,0,0,,Minunat!
+Dialogue: 0,0:14:46.56,0:14:49.11,Default,Balgo,0,0,0,,Totuși, nu am nicio idee în ce m-am băgat!
+Dialogue: 0,0:14:49.11,0:14:52.37,Default,Balgo,0,0,0,,Haide eu!
+Dialogue: 0,0:14:52.69,0:14:53.78,Default,Bruno,0,0,0,,La naiba!
+Dialogue: 0,0:14:57.49,0:14:59.07,Default,Ninny,0,0,0,,Am o întrebare pentru tine.
+Dialogue: 0,0:15:01.30,0:15:06.09,Default,Bruno,0,0,0,,Nu așa merg lucrurile de obicei, dar bănuiesc că așa învătați voi cei din Divizia Menestrelilor să lucrați.
+Dialogue: 0,0:15:06.09,0:15:10.13,Default,Ninny,0,0,0,,Tu ești cel care a adus-o pe Macy în Londra Răsturnată?
+Dialogue: 0,0:15:10.13,0:15:12.34,Default,Ninny,0,0,0,,De ce are un dragon cu ea?
+Dialogue: 0,0:15:13.39,0:15:16.68,Default,Bruno,0,0,0,,Nu puteai pune doar o întrebare, fetiță proastă?
+Dialogue: 0,0:15:18.78,0:15:21.87,Default,Bruno,0,0,0,,Așa este. Eu am ales-o și am adus-o aici.
+Dialogue: 0,0:15:22.69,0:15:27.46,Default,Bruno,0,0,0,,Ea a găsit un pui de dragon în Londra de Suprafață și l-a crescut.
+Dialogue: 0,0:15:28.60,0:15:31.58,Default,Bruno,0,0,0,,Sunt sigur că voiai să mă învinuiești și pentru dragon,
+Dialogue: 0,0:15:31.58,0:15:32.65,Default,Bruno,0,0,0,,dar asta nu a fost opera mea.
+Dialogue: 0,0:15:33.24,0:15:37.30,Default,Bruno,0,0,0,,Acea femeie este una din puținii oameni născuți în Londra de Suprafață
+Dialogue: 0,0:15:37.30,0:15:39.41,Default,Bruno,0,0,0,,cu o cantitate de mare de mana.
+Dialogue: 0,0:15:40.92,0:15:42.17,Default,Bruno,0,0,0,,Ea este o Văzătoare.
+Dialogue: 0,0:15:46.59,0:15:49.38,Default,Ninny,0,0,0,,Macy... este o Văzătoare?
+Dialogue: 0,0:15:50.29,0:15:53.60,Default,Bruno,0,0,0,,Ar fi ajung în Londra Răsturnată mai devreme sau mai târziu.
+Dialogue: 0,0:15:53.60,0:15:57.01,Default,Bruno,0,0,0,,Exact ca tine și Noel Niihashi...
+Dialogue: 0,0:15:57.01,0:15:57.87,Default,Bruno,0,0,0,,Nu-i așa?!
 Dialogue: 0,0:16:00.20,0:16:02.94,Default,Bruno,0,0,0,,Don't be so on edge when \Nyou're holding your Witch Kit.
-Dialogue: 0,0:16:03.18,0:16:04.44,Default,Bruno,0,0,0,,What if it accidentally goes off?
-Dialogue: 0,0:16:08.40,0:16:09.40,Default,Bruno,0,0,0,,The hell?!
+Dialogue: 0,0:16:03.18,0:16:04.44,Default,Bruno,0,0,0,,Dacă se va declanșa accidental?
+Dialogue: 0,0:16:08.40,0:16:09.40,Default,Bruno,0,0,0,,Ce naiba?!
 Dialogue: 0,0:16:15.58,0:16:16.91,Default,Macy,0,0,0,,Nina!
-Dialogue: 0,0:16:17.93,0:16:18.91,Default,Ninny,0,0,0,,Marshal!
-Dialogue: 0,0:16:23.90,0:16:25.96,Default,,0,0,0,,D-Don't!
-Dialogue: 0,0:16:26.44,0:16:28.21,Default,Macy,0,0,0,,Nina, let go!
-Dialogue: 0,0:16:29.12,0:16:33.88,Default,Ninny,0,0,0,,Just stay calm. I'll take you \Nback to somewhere safe!
+Dialogue: 0,0:16:17.93,0:16:18.91,Default,Ninny,0,0,0,,Mareșal!
+Dialogue: 0,0:16:23.90,0:16:25.96,Default,,0,0,0,,N-Nu!
+Dialogue: 0,0:16:26.44,0:16:28.21,Default,Macy,0,0,0,,Nina, dă-mi drumul!
+Dialogue: 0,0:16:29.12,0:16:33.88,Default,Ninny,0,0,0,,Liniștește-te. Te voi duce într-un loc sigur!
 Dialogue: 0,0:16:40.61,0:16:41.73,Default,Macy,0,0,0,,Elly!
 Dialogue: 0,0:16:47.64,0:16:49.02,Default,Bruno,0,0,0,,Balgo Parks.
 Dialogue: 0,0:16:49.57,0:16:51.08,Default,Bruno,0,0,0,,Macy Baljure.
-Dialogue: 0,0:16:51.73,0:16:54.70,Default,Bruno,0,0,0,,You're seriously taking those\Ntwo and trying to run from me?
+Dialogue: 0,0:16:51.73,0:16:54.70,Default,Bruno,0,0,0,,Chiar veți încerca să-i luați și să fugiți de mine?
 Dialogue: 0,0:16:55.94,0:16:57.49,Default,Bruno,0,0,0,,Rickenbacker!
-Dialogue: 0,0:17:08.36,0:17:10.05,Default,Bruno,0,0,0,,Talk about naïve.
-Dialogue: 0,0:17:18.44,0:17:21.39,Default,Ninny,0,0,0,,Oh, come on. Stop crying already!
-Dialogue: 0,0:17:21.85,0:17:25.53,Default,Macy,0,0,0,,But I left Elly behind...
-Dialogue: 0,0:17:25.53,0:17:28.57,Default,Ninny,0,0,0,,I already told you we can't\Ntake the damn dragon with us!
-Dialogue: 0,0:17:28.57,0:17:30.44,Default,Ninny,0,0,0,,They're harmful to normal people!
-Dialogue: 0,0:17:30.65,0:17:33.04,Default,Macy,0,0,0,,But...
-Dialogue: 0,0:17:33.04,0:17:37.03,Default,Ninny,0,0,0,,Would you stop your whining?!\NThis is exactly what I hate about you.
-Dialogue: 0,0:17:37.03,0:17:38.45,Default,Macy,0,0,0,,I knew it, Nina!
-Dialogue: 0,0:17:38.45,0:17:41.95,Default,Macy,0,0,0,,You really do hate me!
-Dialogue: 0,0:17:43.37,0:17:44.98,Default,Ninny,0,0,0,,For crying out loud...
-Dialogue: 0,0:17:44.98,0:17:47.97,Default,Ninny,0,0,0,,Why are you so irritating?!
-Dialogue: 0,0:17:49.58,0:17:53.08,Default,Noel,0,0,0,,For the time being, we should be safe here.
-Dialogue: 0,0:17:53.08,0:17:56.14,Default,Noel,0,0,0,,I've set up a Cloth, so they \Nshouldn't be able to find us.
-Dialogue: 0,0:17:59.22,0:18:02.04,Default,Ninny,0,0,0,,Macy, what happened?
-Dialogue: 0,0:18:04.73,0:18:10.00,Default,Macy,0,0,0,,You knew I didn't like\Nbeing in the group, right?
-Dialogue: 0,0:18:10.00,0:18:11.00,Default,Ninny,0,0,0,,Yeah, I knew.
-Dialogue: 0,0:18:12.03,0:18:15.60,Default,Macy,0,0,0,,I'm just tall, look all right in makeup,\Nand happen to be a good dancer.
+Dialogue: 0,0:17:08.36,0:17:10.05,Default,Bruno,0,0,0,,Ce naivi.
+Dialogue: 0,0:17:18.44,0:17:21.39,Default,Ninny,0,0,0,,Oh, haide. Nu mai plânge!
+Dialogue: 0,0:17:21.85,0:17:25.53,Default,Macy,0,0,0,,Dar am lăsat-o pe Elly în urmă...
+Dialogue: 0,0:17:25.53,0:17:28.57,Default,Ninny,0,0,0,,Ți-am spus deja că nu putem lua dragonul cu noi!
+Dialogue: 0,0:17:28.57,0:17:30.44,Default,Ninny,0,0,0,,Ei le fac mult rău oamenilor obișnuiți!
+Dialogue: 0,0:17:30.65,0:17:33.04,Default,Macy,0,0,0,,Dar...
+Dialogue: 0,0:17:33.04,0:17:37.03,Default,Ninny,0,0,0,,Ai vrea să nu te mai plângi?! Exact asta urăsc la tine.
+Dialogue: 0,0:17:37.03,0:17:38.45,Default,Macy,0,0,0,,Știam eu, Nina!
+Dialogue: 0,0:17:38.45,0:17:41.95,Default,Macy,0,0,0,,Chiar mă urăști!
+Dialogue: 0,0:17:43.37,0:17:44.98,Default,Ninny,0,0,0,,Doamne...
+Dialogue: 0,0:17:44.98,0:17:47.97,Default,Ninny,0,0,0,,De ce ești așa de enervantă?!
+Dialogue: 0,0:17:49.58,0:17:53.08,Default,Noel,0,0,0,,Ar trebui să fim în siguranță aici deocamdată.
+Dialogue: 0,0:17:53.08,0:17:56.14,Default,Noel,0,0,0,,Am pus o Cortină Magică, deci nu ar trebui să reușească să ne găsească.
+Dialogue: 0,0:17:59.22,0:18:02.04,Default,Ninny,0,0,0,,Macy, ce s-a întâmplat?
+Dialogue: 0,0:18:04.73,0:18:10.00,Default,Macy,0,0,0,,Știai că nu-mi place să fac parte din acel grup, nu?
+Dialogue: 0,0:18:10.00,0:18:11.00,Default,Ninny,0,0,0,,Da, știam.
+Dialogue: 0,0:18:12.03,0:18:15.60,Default,Macy,0,0,0,,Doar sunt înaltă, arăt bine cu machiaj și s-a întâmplat să mă pricep la dans.
 Dialogue: 0,0:18:15.60,0:18:19.37,Default,Macy,0,0,0,,So they gave me cool clothes to wear\Nand put all this cool makeup on my face,
 Dialogue: 0,0:18:19.37,0:18:21.49,Default,Macy,0,0,0,,and I ended up as this cool icon...
 Dialogue: 0,0:18:23.37,0:18:26.34,Default,Ninny,0,0,0,,I know. That's why you quit, right?
