@@ -17,8 +17,8 @@ Original Script: GSH
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Scroll Position: 272
-Active Line: 285
+Scroll Position: 294
+Active Line: 313
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -316,34 +316,34 @@ Dialogue: 0,0:17:59.22,0:18:02.04,Default,Ninny,0,0,0,,Macy, ce s-a întâmplat?
 Dialogue: 0,0:18:04.73,0:18:10.00,Default,Macy,0,0,0,,Știai că nu-mi place să fac parte din acel grup, nu?
 Dialogue: 0,0:18:10.00,0:18:11.00,Default,Ninny,0,0,0,,Da, știam.
 Dialogue: 0,0:18:12.03,0:18:15.60,Default,Macy,0,0,0,,Doar sunt înaltă, arăt bine cu machiaj și s-a întâmplat să mă pricep la dans.
-Dialogue: 0,0:18:15.60,0:18:19.37,Default,Macy,0,0,0,,So they gave me cool clothes to wear\Nand put all this cool makeup on my face,
-Dialogue: 0,0:18:19.37,0:18:21.49,Default,Macy,0,0,0,,and I ended up as this cool icon...
-Dialogue: 0,0:18:23.37,0:18:26.34,Default,Ninny,0,0,0,,I know. That's why you quit, right?
-Dialogue: 0,0:18:26.83,0:18:30.58,Default,Macy,0,0,0,,No, if that's all it was,\NI would've quit a long time ago.
-Dialogue: 0,0:18:31.80,0:18:35.06,Default,Macy,0,0,0,,But I didn't quit... because you were there.
-Dialogue: 0,0:18:35.47,0:18:37.93,Default,Macy,0,0,0,,And if I quit, I'd become a nobody.
-Dialogue: 0,0:18:38.54,0:18:39.45,Default,,0,0,0,,But...
-Dialogue: 0,0:18:46.67,0:18:50.36,Default,Macy,0,0,0,,I found that little one two months ago.
-Dialogue: 0,0:18:54.72,0:18:58.19,Default,Macy,0,0,0,,She looked just like the dragons\NI'd seen in picture books and cartoons.
-Dialogue: 0,0:18:59.29,0:19:04.70,Default,Macy,0,0,0,,Apparently, no one else could see her.\NSo I thought I was imagining things.
-Dialogue: 0,0:19:08.93,0:19:15.69,Default,Macy,0,0,0,,But then she started drinking water,\Nso I figured she must be alive.
-Dialogue: 0,0:19:18.15,0:19:20.60,Default,Macy,0,0,0,,I gave her some food, and she ate that, too.
-Dialogue: 0,0:19:21.31,0:19:25.64,Default,Macy,0,0,0,,I gave her lots of different stuff to eat, but\Nshe seemed to like fruits and veggies the best.
-Dialogue: 0,0:19:26.83,0:19:31.35,Default,Macy,0,0,0,,She didn't go to the bathroom,\Nbut she just kept getting bigger.
-Dialogue: 0,0:19:31.85,0:19:34.59,Default,Macy,0,0,0,,She started looking more \Nand more like a dragon.
-Dialogue: 0,0:19:37.86,0:19:40.11,Default,Macy,0,0,0,,A dragon only I could see.
-Dialogue: 0,0:19:40.83,0:19:43.33,Default,Macy,0,0,0,,I suddenly felt like I was special.
-Dialogue: 0,0:19:45.38,0:19:51.15,Default,Macy,0,0,0,,I know our songs did really well, and you\Nand the other girls were amazing on stage,
-Dialogue: 0,0:19:51.15,0:19:53.93,Default,Macy,0,0,0,,but I was the only one\Nwho wasn't myself up there.
-Dialogue: 0,0:19:57.37,0:20:00.17,Default,Macy,0,0,0,,And yet, I had nothing.
-Dialogue: 0,0:20:01.87,0:20:05.93,Default,Macy,0,0,0,,I'm sure no one even noticed me up there.
-Dialogue: 0,0:20:09.54,0:20:12.89,Default,Macy,0,0,0,,But that all changed when I found Elly.
-Dialogue: 0,0:20:13.73,0:20:16.66,Default,Macy,0,0,0,,It felt like Elly gave me some kind of power.
-Dialogue: 0,0:20:17.60,0:20:22.61,Default,Macy,0,0,0,,I felt like she'd take me somewhere special.
-Dialogue: 0,0:20:24.47,0:20:29.42,Default,Macy,0,0,0,,Then he... Bruno came \Nto my place late last night.
-Dialogue: 0,0:20:32.39,0:20:35.67,Default,Macy,0,0,0,,He told me he needed me and my dragon.
-Dialogue: 0,0:20:35.67,0:20:37.87,Default,Macy,0,0,0,,I finally felt like my time had come!
-Dialogue: 0,0:20:37.87,0:20:41.51,Default,Macy,0,0,0,,I was finally going to be \Ntaken somewhere special!
+Dialogue: 0,0:18:15.60,0:18:19.37,Default,Macy,0,0,0,,Deci mi-au dat niște haine mișto, m-au dat cu tot acest machiaj mișto pe față
+Dialogue: 0,0:18:19.37,0:18:21.49,Default,Macy,0,0,0,,și am ajuns să fiu această vedetă mișto...
+Dialogue: 0,0:18:23.37,0:18:26.34,Default,Ninny,0,0,0,,Știu. De asta ai renunțat, nu-i așa?
+Dialogue: 0,0:18:26.83,0:18:30.58,Default,Macy,0,0,0,,Nu, dacă ar fi fost asta, aș fi făcut-o de mult.
+Dialogue: 0,0:18:31.80,0:18:35.06,Default,Macy,0,0,0,,Dar nu am renunțat... deoarece te aveam pe tine.
+Dialogue: 0,0:18:35.47,0:18:37.93,Default,Macy,0,0,0,,Și dacă aș fi renunțat, aș fi devenit un nimeni.
+Dialogue: 0,0:18:38.54,0:18:39.45,Default,,0,0,0,,Dar...
+Dialogue: 0,0:18:46.67,0:18:50.36,Default,Macy,0,0,0,,Am găsit-o pe acea micuță acum două luni.
+Dialogue: 0,0:18:54.72,0:18:58.19,Default,Macy,0,0,0,,Arăta exact ca dragonii pe care-i vedeam în desene și cărți.
+Dialogue: 0,0:18:59.29,0:19:04.70,Default,Macy,0,0,0,,Nimeni altcineva nu putea s-o vadă, deci am crezut că am vedenii.
+Dialogue: 0,0:19:08.93,0:19:15.69,Default,Macy,0,0,0,,Dar apoi a început să bea apă, deci mi-am dat seama că trebuie să fie o ființă vie.
+Dialogue: 0,0:19:18.15,0:19:20.60,Default,Macy,0,0,0,,I-am oferit niște mâncare, iar ea a luat-o.
+Dialogue: 0,0:19:21.31,0:19:25.64,Default,Macy,0,0,0,,I-am dat o grămadă de chestii de mâncare, dar se pare că cel mai mult îi plăceau fructele și legumele.
+Dialogue: 0,0:19:26.83,0:19:31.35,Default,Macy,0,0,0,,Nu avea nevoie să meargă la toaletă, dar a continuat să crească.
+Dialogue: 0,0:19:31.85,0:19:34.59,Default,Macy,0,0,0,,A început să arate din ce în ce mai mult ca un dragon.
+Dialogue: 0,0:19:37.86,0:19:40.11,Default,Macy,0,0,0,,Un dragon pe care doar eu îl puteam vedea.
+Dialogue: 0,0:19:40.83,0:19:43.33,Default,Macy,0,0,0,,M-am simțit dintr-odată specială.
+Dialogue: 0,0:19:45.38,0:19:51.15,Default,Macy,0,0,0,,Știu că melodiile noastre au avut succes și că tu și celelalte fete erați incredibile pe scenă,
+Dialogue: 0,0:19:51.15,0:19:53.93,Default,Macy,0,0,0,,dar eu eram singura că nu eram eu însămi acolo.
+Dialogue: 0,0:19:57.37,0:20:00.17,Default,Macy,0,0,0,,Și totuși, nu aveam nimic.
+Dialogue: 0,0:20:01.87,0:20:05.93,Default,Macy,0,0,0,,Sunt sigură că nimeni nici măcar nu m-a văzut acolo.
+Dialogue: 0,0:20:09.54,0:20:12.89,Default,Macy,0,0,0,,Dar toate astea s-au schimbat când am găsit-o pe Elly.
+Dialogue: 0,0:20:13.73,0:20:16.66,Default,Macy,0,0,0,,M-am simțit de parcă Elly mi-a oferit o putere specială.
+Dialogue: 0,0:20:17.60,0:20:22.61,Default,Macy,0,0,0,,Am simțit că mă va duce undeva special.
+Dialogue: 0,0:20:24.47,0:20:29.42,Default,Macy,0,0,0,,Apoi, el... Bruno a venit la mine noaptea trecută.
+Dialogue: 0,0:20:32.39,0:20:35.67,Default,Macy,0,0,0,,Mi-a spus că are nevoie de mine și dragonul meu.
+Dialogue: 0,0:20:35.67,0:20:37.87,Default,Macy,0,0,0,,În sfârșit simțisem că momentul meu venise!
+Dialogue: 0,0:20:37.87,0:20:41.51,Default,Macy,0,0,0,,Urma să merg în sfârșit într-un loc special!
 Dialogue: 0,0:20:42.09,0:20:43.78,Default,Macy,0,0,0,,Nina, eu...
 Dialogue: 0,0:20:50.72,0:20:51.58,Default,Bruno,0,0,0,,Hei.
 Dialogue: 0,0:20:52.64,0:20:56.28,Default,Bruno,0,0,0,,V-ați luat rămas bun?
