@@ -15,8 +15,8 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
-Scroll Position: 21
-Active Line: 41
+Scroll Position: 37
+Active Line: 57
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,21 +71,21 @@ Dialogue: 0,0:02:34.26,0:02:36.80,Default,Bruno,0,0,0,,Asta nu e ceva ce poate f
 Dialogue: 0,0:03:23.05,0:03:24.14,Default,Macy,0,0,0,,Elly?
 Dialogue: 0,0:03:42.61,0:03:46.07,Default,Ninny,0,0,0,,Ce naiba? Mărimea și forma ei s-au schimbat total!
 Dialogue: 0,0:03:48.12,0:03:50.33,Default,Noel,0,0,0,,She must've molted in the moonlight.
-Dialogue: 0,0:03:50.33,0:03:52.65,Default,Ninny,0,0,0,,Wait, what? But that means—
-Dialogue: 0,0:03:52.65,0:03:54.35,Default,Bruno,0,0,0,,Yeah, exactly.
+Dialogue: 0,0:03:50.33,0:03:52.65,Default,Ninny,0,0,0,,Stai, ce? Dar asta înseamnă că...
+Dialogue: 0,0:03:52.65,0:03:54.35,Default,Bruno,0,0,0,,Da, exact.
 Dialogue: 0,0:03:56.46,0:03:59.59,Default,Bruno,0,0,0,,Using Stealth Scale, \Nmolting in the moonlight...
 Dialogue: 0,0:03:59.59,0:04:03.13,Default,Bruno,0,0,0,,And... she's got six talons.
-Dialogue: 0,0:04:03.45,0:04:06.55,Default,Bruno,0,0,0,,Yeah, there's no doubt about it. That one...
-Dialogue: 0,0:04:07.21,0:04:08.53,Default,Bruno,0,0,0,,is a Märchen.
-Dialogue: 0,0:04:10.31,0:04:13.11,Default,Balgo,0,0,0,,Wh-What's a Märchen?
-Dialogue: 0,0:04:13.11,0:04:16.74,Default,Noel,0,0,0,,One of the seven dragons named\Nafter fairy tales that have
-Dialogue: 0,0:04:16.74,0:04:20.48,Default,Noel,0,0,0,,been around since the \Nfounding of Reverse London.
-Dialogue: 0,0:04:20.79,0:04:25.41,Default,Noel,0,0,0,,Snow White, Red Dress, Golden Axe,
+Dialogue: 0,0:04:03.45,0:04:06.55,Default,Bruno,0,0,0,,Da, nu există îndoială. Acela...
+Dialogue: 0,0:04:07.21,0:04:08.53,Default,Bruno,0,0,0,,este un dragon de basm.
+Dialogue: 0,0:04:10.31,0:04:13.11,Default,Balgo,0,0,0,,C-Ce este un dragon de basm?
+Dialogue: 0,0:04:13.11,0:04:16.74,Default,Noel,0,0,0,,Unul din cei șapte dragoni numiți după basmele
+Dialogue: 0,0:04:16.74,0:04:20.48,Default,Noel,0,0,0,,care existau încă de la crearea Londrei Răsturnate.
+Dialogue: 0,0:04:20.79,0:04:25.41,Default,Noel,0,0,0,,Albă ca Zăpada, Rochia roșie, Tăietorul de lemne cinstit,
 Dialogue: 0,0:04:25.41,0:04:30.01,Default,Noel,0,0,0,,Bubbles, Sugar House, Band of Animals...
-Dialogue: 0,0:04:30.01,0:04:31.00,Default,Noel,0,0,0,,And...
+Dialogue: 0,0:04:30.01,0:04:31.00,Default,Noel,0,0,0,,Și...
 Dialogue: 0,0:04:32.94,0:04:37.13,Default,Noel,0,0,0,,The one it is said only becomes a full-fledged\Ndragon by molting in the moonlight...
-Dialogue: 0,0:04:37.87,0:04:39.07,Default,Noel,0,0,0,,Cinderella.
-Dialogue: 0,0:04:39.63,0:04:41.22,Default,Macy,0,0,0,,Cinderella?
+Dialogue: 0,0:04:37.87,0:04:39.07,Default,Noel,0,0,0,,Cenușăreasa.
+Dialogue: 0,0:04:39.63,0:04:41.22,Default,Macy,0,0,0,,Cenușăreasa?
 Dialogue: 0,0:04:43.39,0:04:47.39,Default,Noel,0,0,0,,It got its name due to the fact\Nit only matures at night,
 Dialogue: 0,0:04:48.08,0:04:52.27,Default,Noel,0,0,0,,and because it scatters a dust \Ncalled Star Ash when it gets agitated.
 Dialogue: 0,0:04:53.28,0:04:54.93,Default,Noel,0,0,0,,And everything the dust touches...
