@@ -27,7 +27,8 @@ Style: ED TL,Arista 2.0,74,&H00EFEFEF,&H000000FF,&H00DE067C,&H82A05018,0,0,0,0,1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{Prolog}
 Comment: 0,0:03:27.98,0:03:28.02,Dialogue,chptr,0,0,0,,{OP}
-Comment: 0,0:04:58.03,0:04:58.07,Dialogue,chptr,0,0,0,,{Episod}
+Comment: 0,0:04:58.03,0:04:58.07,Dialogue,chptr,0,0,0,,{Partea A}
+Comment: 0,0:11:05.06,0:11:05.10,Dialogue,chptr,0,0,0,,{Partea B}
 Comment: 0,0:21:56.04,0:21:56.09,Dialogue,chptr,0,0,0,,{ED}
 Comment: 0,0:23:26.05,0:23:26.09,Dialogue,chptr,0,0,0,,{Data viitoare}
 Dialogue: 100,0:00:19.82,0:00:22.61,Dialogue,,0,0,0,,Nu... Nu acolo...
